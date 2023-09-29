@@ -1,0 +1,102 @@
+---
+title: "Time Series"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+install.packages("astsa")  # install it ...
+library(astsa)             # then load it (has to be done at the start of each session)
+data()                     # use this command to view all the loaded data
+
+```
+```{r}
+head(jj)
+jj
+length(jj)
+```
+```{r}
+dim(jj)     # but no dimensions ...
+ 
+nrow(jj)    # ... no rows
+ 
+ncol(jj)    # ... and no columns
+ 
+jjm = as.matrix(jj)
+dim(jjm)
+```
+```{r}
+(zardoz = ts(rnorm(48), start=c(2293,6), frequency=12)) #create a time series
+?rnorm()
+```
+
+```{r}
+(oz = window(zardoz, start=2294, end=c(2295,12))) #default month is january
+
+time(jj) #gives quarterly earnings        
+```
+```{r}
+cycle(jj)
+plot(jj, ylab="Earnings per Share", main="J & J")
+plot(diff(log(jj)), ylab="Earnings per Share", main="Log and diffed")
+```
+
+```{r}
+x = -5:5                  # sequence of integers from -5 to 5
+y = 5*cos(x)              # guess
+par(mfrow=c(3,2))         # multifigure setup: 3 rows, 2 cols
+#---  plot:
+plot(x, main="plot(x)")
+plot(x, y, main="plot(x,y)")
+#---  plot.ts:
+plot.ts(x, main="plot.ts(x)")
+plot.ts(x, y, main="plot.ts(x,y)")
+#---  ts.plot:
+ts.plot(x, main="ts.plot(x)")
+ts.plot(ts(x), ts(y), col=1:2, main="ts.plot(x,y)")  # note- x and y are ts objects
+#---  the help files [? and help() are the same]:
+?plot.ts
+help(ts.plot)
+?par        # might as well skim the graphical parameters help file while you're here
+```
+```{r}
+k = c(.5,1,1,1,.5)            # k is the vector of weights
+(k = k/sum(k))      
+ 
+fjj = filter(jj, sides=2, k)  # ?filter for help [but you knew that already]
+
+par(mfrow=c(1,2))
+plot(jj)
+plot(fjj)
+
+lines(fjj, col="red")         # adds a line to the existing plot
+lines(lowess(jj), col="blue", lty="dashed")
+
+```
+```{r}
+dljj = diff(log(jj))        # difference the logged data
+plot(dljj)                  # plot it (not shown)
+
+shapiro.test(dljj)          # test for normality
+ 
+```
+
+
+
+```{r}
+par(mfrow=c(1,2))        # set up the graphics
+hist(dljj, prob=TRUE, 12)   # histogram    
+lines(density(dljj))     # smooth it - ?density for details
+qqnorm(dljj)             # normal Q-Q plot  
+qqline(dljj)             # add a line  
+```
+
+```{r}
+xx <- rnorm(500)
+hist(xx)
+qqnorm(xx)
+qqline(xx)
+```

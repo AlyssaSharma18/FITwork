@@ -1,0 +1,186 @@
+---
+title: "Bethnic Communities Initial Data Analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(Hmisc)
+library(corrplot)
+library(ggplot2)
+```
+
+Insert Our Data Set
+```{r}
+getwd()
+#?setwd("C:/Users/This PC/Documents")
+bethniccom <- read.csv("Shannon Wiener Merged.csv")
+```
+```{r}
+View(bethniccom)
+```
+
+First Analysis Compare How Growth of Organisms Impacts the Growth of Other Organisms
+
+```{r}
+bethniccom_onlyorg <- bethniccom[,-c(1,2,3,21)]
+
+bethniccom_onlyorg <- bethniccom_onlyorg/100
+#View(bethniccom_onlyorg)
+```
+arbarescent bryozoans
+```{r}
+cp <- cor(bethniccom_onlyorg)
+
+corrplot(cp,method = "circle")
+
+#bethniccom <- bethniccom %>%
+  #rename(Dock = ï..Dock)
+```
+```{r}
+dockcol <- as.factor(bethniccom$Dock)
+matcol <- as.factor(bethniccom$Mat)
+shellcol <- as.factor(bethniccom$Shell)
+seasoncol <- as.factor(bethniccom$Season)
+
+bethniccom_new <- cbind(dockcol, matcol, shellcol, bethniccom_onlyorg, seasoncol)
+cp1 <- cor(bethniccom_new)
+
+corrplot(cp1)
+```
+
+```{r}
+cp
+```
+
+```{r}
+res2 <- rcorr(as.matrix(cp))
+res2
+
+```
+
+```{r}
+# ++++++++++++++++++++++++++++
+# flattenCorrMatrix
+# ++++++++++++++++++++++++++++
+# cormat : matrix of the correlation coefficients
+# pmat : matrix of the correlation p-values
+flattenCorrMatrix <- function(cormat, pmat) {
+  ut <- upper.tri(cormat)
+  data.frame(
+    row = rownames(cormat)[row(cormat)[ut]],
+    column = rownames(cormat)[col(cormat)[ut]],
+    cor  =(cormat)[ut],
+    p = pmat[ut]
+    )
+}
+```
+```{r}
+res2df <- flattenCorrMatrix(res2$r, res2$P)
+res2df
+#View(res2df)
+max(abs(res2df$p))
+```
+
+The highest p value is between Ribbed Mussel and Tubeworms. The lowest p value is between Barnacles and Oysters.
+
+
+
+Scatterplot of Barnacles vs. All Other Organisms
+```{r}
+co <- c(colnames(bethniccom_onlyorg))
+View(co)
+
+```
+```{r}
+ggplot(data = bethniccom_onlyorg, aes(Barnacles,Arb..Bryo.)) + geom_point() + geom_smooth() + theme_bw()
+```
+
+
+
+, color = "blue"
+, color = "blue"
+, color = "blue"
+, color = "red"
+, color = "dark green"
+, color = "dark green"
+, color = "darkpurple"
+, color = "darkpurple"
+, color = "darkorange"
+, color = "darkorange"
+, color = "yellow"
+, color = "yellow"
+, color = "darkcyan"
+, color = "darkcyan"
+, color = "darkolivegreen1"
+, color = "darkolivegreen1"
+, color = "deeppink"
+, color = "deeppink"
+, color = "gray0"
+, color = "gray0"
+, color = "khaki1"
+, color = "khaki1"
+, color = "lightsalmon"
+, color = "lightsalmon"
+```{r}
+
+colors <- c("Arb..Bryo." = "blue", "Enc..Bryo." = "red", "Tubeworms" = "dark green","Hydroids" = "purple", "Tunicates" = "darkorange","Oysters" = "yellow","Sponges" = "darkcyan", "Anemones" = "darkolivegreen1", "Algae" = "deeppink","Biofilm" = "gray0","Slippersnail" = "khaki1","Feather.Duster.Worm" = "lightsalmon")
+
+#the lines of best fit on this graph are generated using the Loess Method
+ggplot(data = bethniccom_onlyorg, mapping = aes(x = Barnacles)) +
+  geom_point(aes(y = Arb..Bryo., color = "Arb..Bryo.")) +
+  geom_smooth(aes(y = Arb..Bryo., color = "Arb..Bryo.")) +
+  geom_point(aes(y = Enc..Bryo., color = "Enc..Bryo.")) +
+  geom_smooth(aes(y = Enc..Bryo., color = "Enc..Bryo.")) +
+  geom_point(aes(y = Tubeworms, color = "Tubeworms")) +
+  geom_smooth(aes(y = Tubeworms, color = "Tubeworms")) +
+  geom_point(aes(y = Hydroids, color = "Hydroids")) +
+  geom_smooth(aes(y = Hydroids, color = "Hydroids")) +
+   geom_point(aes(y = Tunicates, color = "Tunicates")) +
+  geom_smooth(aes(y = Tunicates, color = "Tunicates")) +
+  geom_point(aes(y = Oysters, color = "Oysters")) +
+  geom_smooth(aes(y = Oysters, color = "Oysters")) +
+  geom_point(aes(y = Sponges, color = "Sponges")) +
+  geom_smooth(aes(y = Sponges, color = "Sponges")) +
+  geom_point(aes(y = Anemones, color = "Anemones")) +
+  geom_smooth(aes(y = Anemones, color = "Anemones")) +
+  geom_point(aes(y = Algae, color = "Algae")) +
+  geom_smooth(aes(y = Algae, color = "Algae")) +
+  geom_point(aes(y = Biofilm, color = "Biofilm")) +
+  geom_smooth(aes(y = Biofilm, color = "Biofilm")) +
+  geom_point(aes(y = Slippersnail, color = "Slippersnail")) +
+  geom_smooth(aes(y = Slippersnail, color = "Slippersnail")) +
+  geom_point(aes(y = Feather.Duster.Worm, color = "Feather.Duster.Worm")) +
+  geom_smooth(aes(y = Feather.Duster.Worm, color = "Feather.Duster.Worm")) +
+  #geom_point(aes(y = Amphipod.Tubes, shape = 4)) +
+  #geom_smooth(aes(y = Amphipod.Tubes, color = "ivory")) +
+  ylab("Organism Type") + 
+  labs(color = "Legend") +
+  ggtitle("Percent Cover of Other Organisms with respect to Barnacle Cover") +
+  scale_color_manual(values = colors)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+---
+title: "Fall vs. Spring Bethnic Com"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+First we will sort the data so we can compare organisms for fall vs. spring for individual shells
+```{r}
+sortbc <- bethniccom %>%
+  mutate(id = paste(Dock, Mat, Shell)) %>%
+  arrange(id) #
+  #arrange(Shell,Mat)
+View(sortbc)
+
+
+```
+
+```{r}
+?mutate()
+colnames(bethniccom)
+```

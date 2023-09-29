@@ -1,0 +1,68 @@
+---
+title: "Log Transformations"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+getwd()
+cementation <- read.csv("Cementation, but right with dates.csv")
+str(cementation)
+#View(cementation)
+
+cementation <- cementation[,c(1,2,3,4,5)]
+str(cementation)
+cementation <- na.omit(cementation)
+#View(cementation)
+
+
+#View(cementation)
+```
+
+Now we will do log transformations
+```{r}
+library(openintro)
+library(dplyr)
+library(ggplot2)
+library(e1071)
+```
+Assess Skewedness of data
+```{r}
+skewness(cementation$Percent.Cover)
+
+cementationwithlogs <- cbind(cementation, log(cementation$Percent.Cover), log10(cementation$Percent.Cover))
+```
+This indicates that the data is highly skewed positive. A visual representation is availible in the following histogram
+```{r}
+ggplot(data = cementation, aes(Percent.Cover)) + geom_histogram() + ggtitle("Cementation Percent Cover")
+
+#View(cementationwithlogs)
+names(cementationwithlogs)[names(cementationwithlogs) == "log(cementation$Percent.Cover)"] <- "logPercentCover"
+
+names(cementationwithlogs)[names(cementationwithlogs) == "log10(cementation$Percent.Cover)"] <- "log10PercentCover"
+
+ggplot(data = cementationwithlogs, aes(logPercentCover)) + geom_histogram() + ggtitle("Cementation Log Percent Cover")
+
+ggplot(data = cementationwithlogs, aes(log10PercentCover)) + geom_histogram() + ggtitle("Cementation Log10 Percent Cover")
+
+```
+
+Assess Skewedness of Log Data
+```{r}
+skewness(cementationwithlogs$logPercentCover)
+skewness(cementationwithlogs$log10PercentCover)
+```
+ Now we will add an ID Column to cementation
+```{r}
+a <- length(cementation$Mat)
+ID <- vector(mode="character", length=a)
+
+?paste()
+for (i in length(cementation$Mat)) {
+  ID[i] <- paste(cementation$Mat[i])
+}
+```
+ 
+

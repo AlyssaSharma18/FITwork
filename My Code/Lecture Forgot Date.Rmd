@@ -1,0 +1,77 @@
+---
+title: "Lecture 6-4"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library("ggplot2")
+library("corrplot")
+library("MASS")
+library("rrr")
+library("olsrr")
+
+
+#getwd()
+#setwd("C:/Florida Tech/Courses/MTH 5401/Summer 2020/Data")
+#dir()
+
+#df=read.table("house.txt",header=TRUE)
+#df
+
+reg1=lm(Price~SqFeet,data=df) #Price is response and SqFeet is the factor in this model
+summary(reg1)
+anova(reg1)
+
+var(df$Price)
+var(df$Price)*(length(df$Price)-1)
+
+reg2=lm(Price~numBR,data=df)
+summary(reg2)
+anova(reg2)
+
+reg3=lm(Price~SqFeet+numBR,data=df)
+summary(reg3)
+anova(reg3)
+
+reg4=lm(Price~numBR+SqFeet,data=df)
+summary(reg4)
+anova(reg4)
+
+cor(df$SqFeet,df$numBR) #Highly correlated.
+corr_mat_house=cor(df[,1:ncol(df)])
+corr_mat_house
+corrplot(corr_mat_house)  
+
+
+data<-read.csv("BreastCancerRegression.csv", header=TRUE)
+head(data)
+str(data)
+summary(data)
+
+corr_mat_data<-cor(data[,1:ncol(data)])
+corr_mat_data
+corrplot(corr_mat_data)
+corr_mat_data[3,3]
+corr_mat_data[3,4]
+corr_mat_data["smoothness_mean", "texture_worst"]
+
+
+#########################################################
+#########################################################
+model <- lm(mpg ~ disp + hp + wt + qsec, data = mtcars)
+ols_step_best_subset(model)
+# plot
+model <- lm(mpg ~ disp + hp + wt + qsec, data = mtcars)
+k <- ols_step_best_subset(model)
+plot(k)
+
+
+
+
+```
+

@@ -1,0 +1,365 @@
+---
+title: "Fall vs. Spring Bethnic Com"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(data.table)
+library(dplyr)
+library(Rmisc)
+```
+
+
+```{r}
+
+getwd()
+#setwd("C:/Users/This PC/Documents")
+bethniccom <- read.csv("Shannon Wiener Merged Fixed All Data.csv",header = TRUE)
+
+```
+```{r}
+View(bethniccom)
+#rm(bethniccom)
+```
+
+
+
+```{r}
+bethniccom_onlyorg <- bethniccom[,-c(1,2,3,21)]
+
+bethniccom_onlyorg <- bethniccom_onlyorg/100
+#View(bethniccom_onlyorg)
+```
+
+```{r}
+#bethniccom <- bethniccom %>%
+  #rename(dock = Dock)
+
+View(bethniccom)
+```
+
+
+```{r}
+names(bethniccom)
+```
+
+
+
+
+First we will sort the data so we can compare organisms for fall vs. spring for individual shells
+```{r}
+#sortbc <- bethniccom %>%
+ # mutate(id = gsub(" ", "",paste(Dock, Mat, Shell),fixed = TRUE)) %>%
+  #arrange(id) 
+  #arrange(Shell,Mat)
+#View(sortbc)
+
+
+
+```
+
+Now do this for individual docks
+```{r}
+sortbc_A1A <- sortbc %>%
+  filter(Dock == "A1A")
+#View(sortbc_A1A)
+```
+
+```{r}
+sortbc_Aquarina <- sortbc %>%
+  filter(Dock == "Aquarina")
+#View(sortbc_Aquarina)
+```
+```{r}
+sortbc_LighthouseCove <- sortbc %>%
+  filter(Dock == "Lighthouse Cove")
+#View(sortbc_LighthouseCove)
+```
+```{r}
+sortbc_IAP <- sortbc %>%
+  filter(Dock == "IAP")
+#View(sortbc_IAP)
+```
+```{r}
+sortbc_MBP <- sortbc %>%
+  filter(Dock == "MBP")
+#View(sortbc_MBP)
+```
+```{r}
+sortbc_MelbourneShores <- sortbc %>%
+  filter(Dock == "Melbourne Shores")
+#View(sortbc_MelbourneShores)
+```
+```{r}
+sortbc_Sebastian <- sortbc %>%
+  filter(Dock == "Sebastian")
+#View(sortbc_Sebastian)
+```
+```{r}
+sortbc_Wingate <- sortbc %>%
+  filter(Dock == "Wingate")
+#View(sortbc_Wingate)
+```
+
+
+Now we will create a histogram of organism levels in fall vs. spring per dock
+
+Start with A1A
+```{r, error=TRUE}
+#View(sortbc_A1A)
+
+A1Apair <- sortbc_A1A %>%
+  filter(id == sortbc_A1A$id[1])
+
+
+#View(A1Apair)
+A1Apairdf <- data.frame(t(A1Apair)) 
+A1Apairdf <- A1Apairdf[-c(1,2,3,21,22),]
+
+
+#View(A1Apairdf)
+
+setDT(A1Apairdf, keep.rownames = TRUE)[]
+
+
+names(A1Apairdf)<-c("Organism","Fall","Spring")
+
+A1Apairdf
+
+
+```
+
+Trying to make a barplot
+
+```{r, error=TRUE}
+
+
+for (i in 1:17) {
+  A1Apairdf$Fall[i] <- str_squish(A1Apairdf$Fall[i])
+}
+
+View(A1Apairdf)
+
+A1Apairdf[,2] <- as.factor(A1Apairdf[,2])
+A1Apairdf[,3] <- as.factor(A1Apairdf[,3])
+
+
+ggplot(data = A1Apairdf, aes(x = factor(Organism),y=Fall)) + geom_col(position = "dodge2") + theme_bw()
+ggplot(data = A1Apairdf, aes(x = Organism, y = Spring)) + geom_bar(stat = "identity") 
+
+?geom_bar()
+```
+
+More Barplot Attempts
+
+```{r, error=TRUE}
+barplot(as.numeric(A1Apairdf$Organism),A1Apairdf$Fall)
+```
+
+```{r}
+?mutate()
+colnames(bethniccom)
+?pivot_longer()
+```
+
+Time to try something else, going back to the original data set and trying to organize it
+
+```{r}
+bethniccom_practice <- bethniccom[,4:21]
+bethniccom_practice <-bethniccom_practice %>% 
+  pivot_longer(cols = !Season, names_to = "Organism",values_to = "PercentCover")
+  
+View(bethniccom_practice)
+```
+
+It worked! :) Now that we have organized data, we can start analysis after we get a starting understanding of the data.
+
+First we have to change the column types.
+
+```{r}
+mode(bethniccom_practice)
+bethniccom_practice$Season <- as.factor(bethniccom_practice$Season)
+bethniccom_practice$Organism <- as.factor(bethniccom_practice$Organism)
+bethniccom_practice$PercentCover <- as.numeric(bethniccom_practice$PercentCover)
+str(bethniccom_practice)
+```
+
+To get an understanding of how the data is distributed, let's make a boxplot of organism percent conver by season.
+
+```{r}
+ggplot(bethniccom_practice, aes(x = Organism, y = PercentCover, color = Season)) + geom_boxplot() + ggtitle("Fall vs. Spring Organism Distribution") + labs(x = "Organism",y = "Percent Cover") + coord_flip() + theme_bw()
+```
+Now we will try and do some analysis by getting a summary of the data and making boxplots of the confidence intervals.
+```{r}
+sumbc <- summarySE(bethniccom_practice,
+                measurevar="PercentCover",
+                groupvars=c("Season","Organism"))
+
+#sumbc
+pd = position_dodge(.2)
+
+ggplot(sumbc, aes(x=Organism,
+                y=PercentCover,
+                color=Season)) +
+  geom_errorbar(aes(ymin=PercentCover-se,
+                    ymax=PercentCover+se),
+                width=.2, size=0.7, position=pd) +
+  geom_point(shape=15, size=4, position=pd) +
+  theme(
+    axis.title.y = element_text(vjust= 1.8),
+    axis.title.x = element_text(vjust= -0.5),
+    axis.title = element_text(face = "bold")) +
+  scale_color_manual(values = c("red", "blue")) + 
+  ggtitle("Confidence Intervals") +
+  coord_flip() + theme_bw() + labs(x = "Organism",y = "Percent Cover")
+```
+
+Now we will do ANOVA for Percent Cover Based on Organism
+```{r}
+attach(bethniccom_practice)
+levels(Organism)
+plot(PercentCover~Organism)
+anvml_pco <- aov(PercentCover~Organism)
+summary(anvml_pco)
+
+pairwise.t.test(PercentCover, Organism, p.adjust="bonferroni")
+TukeyHSD(anvml_pco, conf.level = 0.95)
+```
+
+Now we will do Anova for Percent Cover based on Season
+```{r}
+levels(Season)
+plot(PercentCover~Season)
+anvml_pcs <- aov(PercentCover~Season)
+summary(anvml_pcs)
+
+pairwise.t.test(PercentCover, Season, p.adjust="bonferroni")
+TukeyHSD(anvml_pcs, conf.level = 0.95)
+```
+Anova of Season and Organism for Percent Cover
+```{r}
+plot(PercentCover~Season+Organism)
+
+anvml_pcso <- aov(PercentCover~Season+Organism)
+summary(anvml_pcso)
+
+
+pairwise.t.test(PercentCover, Season, p.adjust="bonferroni")
+TukeyHSD(anvml_pcso, conf.level = 0.95)
+
+#View(bethniccom)
+```
+
+Let's compare which model out of our 3 anovas is better
+
+```{r}
+library(AICcmodavg)
+
+model.set <- list(anvml_pco,anvml_pcs,anvml_pcso,anvml_pcosi,anvml_pcoi)
+model.names <- c("Anova Organism", "Anova Season", "Anova Both","Anova Both and Interaction","Anova Organism and Interaction")
+
+aictab(model.set, modnames = model.names)
+?aictab()
+```
+
+
+```{r}
+#par(mfrow=c(2,2))
+par(mfrow=c(1,1))
+plot(anvml_pco)
+
+```
+
+Now we will do Anova for Percent Cover based on Season
+```{r}
+levels(Season)
+plot(PercentCover~Season+Organism+Season*Organism)
+anvml_pcosi <- aov(PercentCover~Season+Organism+Season*Organism)
+summary(anvml_pco)
+
+pairwise.t.test(PercentCover, Season, p.adjust="bonferroni")
+TukeyHSD(anvml_pcs, conf.level = 0.95)
+```
+```{r}
+#par(mfrow=c(2,2))
+par(mfrow=c(1,1))
+plot(anvml_pcoi)
+
+```
+
+```{r}
+attach(bethniccom_practice)
+levels(Season)
+plot(PercentCover~Organism+Season*Organism)
+anvml_pcoi <- aov(PercentCover~Organism+Season*Organism)
+summary(anvml_pcoi)
+
+
+#pairwise.t.test(PercentCover, Season, p.adjust="bonferroni")
+#TukeyHSD(anvml_pcs, conf.level = 0.95)
+```
+
+```{r}
+#par(mfrow=c(2,2))
+par(mfrow=c(1,1))
+plot(anvml_pcoi)
+
+```
+
+Now we will do log transformations
+```{r}
+library(openintro)
+library(dplyr)
+library(ggplot2)
+library(e1071)
+```
+Assess Skewedness of data
+```{r}
+skewness(bethniccom_practice$PercentCover)
+```
+This indicates that the data is highly skewed positive. A visual representation is availible in the following histogram
+
+This is the data using log and log 10 without adding 1
+```{r}
+ggplot(data = bethniccom_practice, aes(PercentCover)) + geom_histogram()
+
+
+bethniccom_logpractice <- cbind(bethniccom_practice, log(bethniccom_practice$PercentCover),log10(bethniccom_practice$PercentCover))
+
+#View(bethniccom_logpractice)
+str(bethniccom_logpractice)
+
+names(bethniccom_logpractice)[names(bethniccom_logpractice) == "log(bethniccom_practice$PercentCover)"] <- "logPercentCover"
+names(bethniccom_logpractice)[names(bethniccom_logpractice) == "log10(bethniccom_practice$PercentCover)"] <- "log10PercentCover"
+
+ggplot(data = bethniccom_logpractice, aes(x = logPercentCover)) +
+  geom_histogram() + ggtitle("Percent Cover Log Transformation")
+ggplot(data = bethniccom_logpractice, aes(x = log10PercentCover)) +
+  geom_histogram() + ggtitle("Percent Cover Log10 Transformation")
+```
+
+This is the data using 1 + log and log 10
+```{r}
+ggplot(data = bethniccom_practice, aes(PercentCover)) + geom_histogram()+ ggtitle("Percent Cover")
+
+
+bethniccom_logpractice <- cbind(bethniccom_practice, log(1 + bethniccom_practice$PercentCover),log10(1 + bethniccom_practice$PercentCover))
+
+#View(bethniccom_logpractice)
+str(bethniccom_logpractice)
+
+names(bethniccom_logpractice)[names(bethniccom_logpractice) == "log(1 + bethniccom_practice$PercentCover)"] <- "logPercentCover"
+names(bethniccom_logpractice)[names(bethniccom_logpractice) == "log10(1 + bethniccom_practice$PercentCover)"] <- "log10PercentCover"
+
+
+ggplot(data = bethniccom_logpractice, aes(x = PercentCover)) +
+  geom_histogram() + ggtitle("Percent Cover No Transformation")
+ggplot(data = bethniccom_logpractice, aes(x = logPercentCover)) +
+  geom_histogram() + ggtitle("Percent Cover Log Transformation")
+ggplot(data = bethniccom_logpractice, aes(x = log10PercentCover)) +
+  geom_histogram() + ggtitle("Percent Cover Log10 Transformation")
+```
+

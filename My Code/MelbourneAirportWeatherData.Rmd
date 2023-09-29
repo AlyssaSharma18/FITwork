@@ -1,0 +1,36 @@
+---
+title: "MelbourneAirportWeatherData"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+getwd()
+melaircd <- read.csv("ClimateDataMelbourneInternationalAirport.csv")
+#View(melaircd)
+
+attach(melaircd)
+
+noNAwetbulb <- na.omit(DailyAverageWetBulbTemperature)
+noNAwetbulb_dates <- numeric(length(melaircd$DATE))
+
+#for (i in length(melaircd$DATE)) {
+  #if(melaircd$DailyAverageWetBulbTemperature[i] == !NA){
+   # noNAwetbulb_dates[i] <- melaircd$DATE[i]
+  #}
+  
+#}
+
+plot(melaircd$DATE[!is.na(melaircd$DATE)],melaircd$DailyAverageDewPointTemperature[!is.na(melaircd$DATE)],type="l")
+
+plot(DATE, noNAwetbulb_dates)
+```
+
+Try Removing NAs
+```{r}
+
+```
+
