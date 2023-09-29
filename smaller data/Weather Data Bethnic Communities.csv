@@ -1,0 +1,125 @@
+Date,Dock,Temperature,Salinity,Secchi,Dock,Season,Percent Covered,Mat Number
+1/27/2021,IAP,21.6,20.1,50,IAP,Spring,99.61,S1
+1/27/2021,IAP,21.6,20.1,50,IAP,Spring,99.06,N2
+1/27/2021,IAP,21.6,20.1,50,IAP,Spring,99.09,N3
+1/27/2021,IAP,21.6,20.1,50,IAP,Spring,97.07,N4
+1/27/2021,IAP,21.6,20.1,50,IAP,Spring,99.27,S5
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,98.1,S5
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,95.67,S1
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,96.68,N2
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,100,S3
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,96.63,N6
+1/29/2021,Wingate,16,24.3,50,Wingate,Spring,98.46,N4
+10/10/2020,Sebastian,28.2,25,30,Sebastian,Fall,97.94,S2
+10/10/2020,Sebastian,28.2,25,30,Sebastian,Fall,97.87,N4
+10/10/2020,Sebastian,28.2,25,30,Sebastian,Fall,97.38,3S
+10/10/2020,Sebastian,28.2,25,30,Sebastian,Fall,100,S1
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,91.83,S3
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,85.32,S1
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,84.92,N2
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,99.94,S5
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,79.86,N4
+10/14/2020,Wingate,29.5,18,40,Wingate,Fall,82.07,N6
+10/2/2020,IAP,25.9,21,33,IAP,Fall,78.61,S5
+10/2/2020,IAP,25.9,21,33,IAP,Fall,52.36,S1
+10/2/2020,IAP,25.9,21,33,IAP,Fall,73.49,N2
+10/2/2020,IAP,25.9,21,33,IAP,Fall,75.96,N3
+10/2/2020,IAP,25.9,21,33,IAP,Fall,82.53,N4
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,83.75,N1
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,78.11,S4
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,70.77,S2
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,96.19,N3
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,99.47,N6
+10/21/2020,Lighthouse Cove,26.4,23.2,160,Lighthouse Cove,Fall,93.83,S5
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,89.03,S1
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,90.54,S3
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,88.9,S5
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,74.38,N6
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,83.55,N7
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,77.08,N8
+10/24/2020,Melbourne Beach Pier,25.9,17.5,130,Melbourne Beach Pier,Fall,86.06,N9
+10/28/2020,A1A,28.1,18,90,A1A,Fall,71.96,N3
+10/28/2020,A1A,28.1,18,90,A1A,Fall,79.6,N2
+10/28/2020,A1A,28.1,18,90,A1A,Fall,71.96,S1
+10/28/2020,A1A,28.1,18,90,A1A,Fall,70.6,S2
+10/28/2020,A1A,28.1,18,90,A1A,Fall,65.06,N1
+10/28/2020,A1A,28.1,18,90,A1A,Fall,72.42,S3
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,98.07,S3
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,97.5,N2
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,97.17,N1
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,95.18,S5
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,97.04,N4
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,98.08,N3
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,95.88,N5
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,99.79,S1
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,95.56,S2
+10/30/2020,Beachwoods,27.5,18,135,Beachwoods,Fall,91.15,S4
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,38.13,N1
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,45.72,N3
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,97.55,S2
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,40.12,N2
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,27.65,S2
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,97.04,S4
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,46.59,S3
+10/9/2020,Melbourne Shores,29.7,21,75,Aquarina,Fall,64.23,S1
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,95.7,N6
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,93.8,S5
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,99.27,N1
+10/9/2020,Melbourne Shores,29.7,21,75,Melbourne Shores,Fall,93.06,N3
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,38.13,N1
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,45.72,N3
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,97.55,S2
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,40.12,N2
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,27.65,S2
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,97.04,S4
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,46.59,S3
+10/9/2020,Aquarina,30.9,20,60,Aquarina,Fall,64.23,S1
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,95.7,N6
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,93.8,S5
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,99.27,N1
+10/9/2020,Aquarina,30.9,20,60,Melbourne Shores,Fall,93.06,N3
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,77.19,N1
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,54.02,N3
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,55.36,S2
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,74.76,S1
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,48.59,N2
+2/10/2021,Aquarina,22.3,29.08,57,Aquarina,Spring,63.77,S3
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,99.09,S4
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,96.94,N3
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,98.29,N1
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,99.46,N6
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,98.91,S2
+2/12/2021,Lighthouse Cove,22.9,24.58,100,Lighthouse Cove,Spring,98.83,S5
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,97.84,N2
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,96.24,S1
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,100,S2
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,94.91,N1
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,92.78,S3
+2/17/2021,A1A,23.5,21.48,80,A1A,Spring,96.24,N3
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,99.73,S1
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,98.69,N5
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,94.57,N1
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,96.35,S3
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,99.34,S2
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,97.64,N3
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,98.09,S5
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,95.72,N4
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,97.2,S4
+2/20/2021,Beachwoods,21.5,21.57,95,Beachwoods,Spring,99.19,N2
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,99.27,S1
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,95.33,S3
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,97.97,S5
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,91.44,N6
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,98.79,N7
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,98.98,N8
+2/27/2021,Melbourne Beach Pier,21.8,18.47,110,Melbourne Beach Pier,Spring,96.85,N9
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,99.73,S2
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,98.58,S4
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,100,N1
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,99.87,N6
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,99.85,S5
+2/5/2021,Melbourne Shores,15.1,26,90,Melbourne Shores,Spring,98.88,N3
+2/6/2021,Sebastian,17.7,37.1,70,Sebastian,Spring,96.48,S1
+2/6/2021,Sebastian,17.7,37.1,70,Sebastian,Spring,96.63,S2
+2/6/2021,Sebastian,17.7,37.1,70,Sebastian,Spring,93.25,N4
+2/6/2021,Sebastian,17.7,37.1,70,Sebastian,Spring,98.05,3S

@@ -1,0 +1,572 @@
+Dock,Mat,Shell,Barnacles,Arb. Bryo.,Enc. Bryo.,   Tubeworms,Hydroids,Tunicates,Oysters,Sponges,Anemones,Algae,Biofilm,Slippersnail,Feather Duster Worm,Amphipod Tubes,Bare Shell,Ribbed Mussel,Silt,Season,ID
+A1A,1-South,aqua,60,0,0,0,0,0,15,0,0,15,8,2,0,0,0,0,0,fall,A1A1-Southaqua
+A1A,1-South,aqua,20,0,45,5,0,0,15,0,0,5,5,5,0,0,0,0,0,spring,A1A1-Southaqua
+A1A,1-South,green,70,0,0,0,0,5,0,0,0,10,15,0,0,0,0,0,0,fall,A1A1-Southgreen
+A1A,1-South,green,25,0,45,0,0,0,30,0,0,0,0,0,0,0,0,0,0,spring,A1A1-Southgreen
+A1A,1-South,pink,50,0,0,0,0,0,15,0,0,0,34,1,0,0,0,0,0,fall,A1A1-Southpink
+A1A,1-South,pink,15,1,9,5,0,0,45,0,5,10,5,5,0,0,0,0,0,spring,A1A1-Southpink
+A1A,1-South,purple,85,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,fall,A1A1-Southpurple
+A1A,1-South,purple,10,0,60,5,0,0,10,10,0,0,5,0,0,0,0,0,0,spring,A1A1-Southpurple
+A1A,1-South,red,60,0,5,0,0,5,0,0,0,0,29,1,0,0,0,0,0,fall,A1A1-Southred
+A1A,1-South,red,20,0,30,0,0,0,40,0,0,5,0,5,0,0,0,0,0,spring,A1A1-Southred
+A1A,1-South,yellow,60,0,5,0,0,0,0,0,0,0,35,0,0,0,0,0,0,fall,A1A1-Southyellow
+A1A,1-South,yellow,5,0,25,0,0,0,10,0,0,0,0,0,0,0,0,0,0,spring,A1A1-Southyellow
+A1A,2-South,aqua,70,0,0,0,5,0,0,15,0,2,8,0,0,0,0,0,0,fall,A1A2-Southaqua
+A1A,2-South,aqua,40,0,0,0,5,0,10,30,0,0,15,0,0,0,0,0,0,spring,A1A2-Southaqua
+A1A,2-South,green,80,0,0,0,0,0,0,0,0,0,15,0,0,0,5,0,0,fall,A1A2-Southgreen
+A1A,2-South,green,20,0,28,2,0,0,30,0,0,20,0,0,0,0,0,0,0,spring,A1A2-Southgreen
+A1A,2-South,pink,85,0,0,0,5,0,0,0,0,0,10,0,0,0,0,0,0,fall,A1A2-Southpink
+A1A,2-South,pink,30,0,39,0,0,0,5,5,1,5,5,5,0,0,0,0,0,spring,A1A2-Southpink
+A1A,2-South,purple,65,0,0,0,0,0,5,0,0,0,15,5,0,0,10,0,0,fall,A1A2-Southpurple
+A1A,2-South,purple,40,0,25,0,0,0,5,0,0,10,0,20,0,0,0,0,0,spring,A1A2-Southpurple
+A1A,2-South,red,60,0,0,0,0,5,20,0,0,10,5,0,0,0,0,0,0,fall,A1A2-Southred
+A1A,2-South,red,25,0,25,0,0,0,30,15,0,5,0,0,0,0,0,0,0,spring,A1A2-Southred
+A1A,2-South,yellow,70,0,10,0,10,0,0,0,0,0,5,0,0,0,5,0,0,fall,A1A2-Southyellow
+A1A,2-South,yellow,5,0,85,0,0,0,0,0,0,10,0,0,0,0,0,0,0,spring,A1A2-Southyellow
+A1A,3-South ,aqua,60,0,0,0,0,0,0,0,0,0,10,0,0,0,30,0,0,fall,A1A3-South aqua
+A1A,3-South ,green,80,0,0,0,0,10,5,0,0,0,5,0,0,0,0,0,0,fall,A1A3-South green
+A1A,3-South ,pink,55,0,0,0,0,0,5,15,0,0,5,0,0,0,0,0,0,fall,A1A3-South pink
+A1A,3-South ,purple,65,0,5,0,0,0,10,5,0,0,10,0,0,0,9,0,0,fall,A1A3-South purple
+A1A,3-South ,red,55,0,5,0,5,5,10,0,0,0,5,0,0,0,15,0,0,fall,A1A3-South red
+A1A,3-South ,yellow,70,0,5,0,0,1,0,5,0,5,10,0,0,0,10,0,0,fall,A1A3-South yellow
+A1A,3-South,aqua,5,0,35,0,0,0,40,5,5,5,5,0,0,0,0,0,0,spring,A1A3-Southaqua
+A1A,3-South,green,10,0,35,0,0,0,20,20,0,5,5,5,0,0,0,0,0,spring,A1A3-Southgreen
+A1A,3-South,pink,3,0,47,0,0,0,40,0,0,5,5,0,0,0,0,0,0,spring,A1A3-Southpink
+A1A,3-South,purple,20,0,55,0,0,0,25,0,0,0,0,0,0,0,0,0,0,spring,A1A3-Southpurple
+A1A,3-South,red,20,0,45,0,0,0,15,5,0,0,5,5,0,0,5,0,0,spring,A1A3-Southred
+A1A,3-South,yellow,25,0,30,0,0,0,40,0,0,5,0,0,0,0,0,0,0,spring,A1A3-Southyellow
+A1A,4-North,aqua,70,0,5,0,0,1,0,5,0,5,10,0,0,0,10,0,0,fall,A1A4-Northaqua
+A1A,4-North,aqua,25,0,45,0,0,0,15,5,5,0,5,0,0,0,0,0,0,spring,A1A4-Northaqua
+A1A,4-North,green,65,0,5,0,0,0,10,5,0,0,10,5,0,0,9,0,0,fall,A1A4-Northgreen
+A1A,4-North,green,5,0,10,0,0,0,35,35,0,0,10,5,0,0,0,0,0,spring,A1A4-Northgreen
+A1A,4-North,pink,80,0,0,0,0,10,5,0,0,0,5,0,0,0,15,0,0,fall,A1A4-Northpink
+A1A,4-North,pink,25,0,75,0,0,0,0,0,5,0,5,0,0,0,0,0,0,spring,A1A4-Northpink
+A1A,4-North,purple,60,0,0,0,0,0,0,0,0,0,10,5,0,0,0,0,0,fall,A1A4-Northpurple
+A1A,4-North,purple,20,0,10,0,0,0,10,20,5,0,35,0,0,0,0,0,0,spring,A1A4-Northpurple
+A1A,4-North,red,55,0,5,0,5,5,10,0,0,0,10,0,0,0,30,0,0,fall,A1A4-Northred
+A1A,4-North,red,10,0,40,0,0,0,30,5,5,5,5,0,0,0,0,0,0,spring,A1A4-Northred
+A1A,4-North,yellow,55,0,0,0,0,0,5,15,0,0,5,0,0,0,0,0,0,fall,A1A4-Northyellow
+A1A,4-North,yellow,10,5,10,0,0,0,50,15,5,0,5,0,0,0,0,0,0,spring,A1A4-Northyellow
+A1A,5-North,aqua,60,0,15,0,0,0,10,0,0,0,0,5,0,0,10,0,0,fall,A1A5-Northaqua
+A1A,5-North,aqua,5,0,55,0,0,0,30,0,0,0,5,5,0,0,0,0,0,spring,A1A5-Northaqua
+A1A,5-North,green,60,0,5,0,0,0,5,20,0,0,5,0,0,0,0,0,0,fall,A1A5-Northgreen
+A1A,5-North,green,10,0,15,0,0,0,20,25,0,0,29,0,0,0,0,0,0,spring,A1A5-Northgreen
+A1A,5-North,pink,70,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,0,fall,A1A5-Northpink
+A1A,5-North,pink,5,0,20,0,0,0,75,0,0,0,0,0,0,0,0,0,0,spring,A1A5-Northpink
+A1A,5-North,purple,70,0,10,0,0,0,2,0,1,0,15,2,0,0,0,0,0,fall,A1A5-Northpurple
+A1A,5-North,purple,10,0,40,0,0,0,40,0,0,0,5,5,0,0,0,0,0,spring,A1A5-Northpurple
+A1A,5-North,red,60,0,5,0,0,0,0,20,0,0,10,0,0,0,5,0,0,fall,A1A5-Northred
+A1A,5-North,red,5,0,20,0,0,0,0,70,0,0,5,0,0,0,0,0,0,spring,A1A5-Northred
+A1A,5-North,yellow,75,0,0,0,0,0,5,10,0,0,5,0,0,0,5,0,0,fall,A1A5-Northyellow
+A1A,5-North,yellow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,spring,A1A5-Northyellow
+A1A,6-North,aqua,70,0,0,0,0,5,15,0,0,0,10,0,0,0,0,0,0,fall,A1A6-Northaqua
+A1A,6-North,aqua,5,0,85,0,0,0,0,5,0,0,5,0,0,0,0,0,0,spring,A1A6-Northaqua
+A1A,6-North,green,70,0,0,0,10,1,0,0,0,0,14,0,0,0,5,0,0,fall,A1A6-Northgreen
+A1A,6-North,green,5,0,89,1,0,0,0,0,0,5,0,0,0,0,0,0,0,spring,A1A6-Northgreen
+A1A,6-North,pink,70,0,5,0,0,1,5,0,0,0,3,1,0,0,10,0,0,fall,A1A6-Northpink
+A1A,6-North,pink,10,0,20,5,0,0,40,15,5,0,5,0,0,0,0,0,0,spring,A1A6-Northpink
+A1A,6-North,purple,15,0,15,0,5,0,50,0,0,0,5,10,0,0,0,0,0,fall,A1A6-Northpurple
+A1A,6-North,purple,5,0,10,1,0,0,30,0,0,0,5,10,0,0,39,0,0,spring,A1A6-Northpurple
+A1A,6-North,red,95,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,fall,A1A6-Northred
+A1A,6-North,red,0,0,39,5,0,0,20,30,5,0,0,1,0,0,0,0,0,spring,A1A6-Northred
+A1A,6-North,yellow,79,0,0,0,0,0,15,0,0,1,5,0,0,0,0,0,0,fall,A1A6-Northyellow
+A1A,6-North,yellow,5,0,40,0,0,5,40,0,0,5,5,0,0,0,0,0,0,spring,A1A6-Northyellow
+Aquarina,1-North,aqua,50,0,0,0,0,10,0,0,0,0,30,5,5,0,0,0,0,fall,Aquarina1-Northaqua
+Aquarina,1-North,aqua,35,0,15,0,0,1,20,20,1,0,3,5,0,0,0,0,0,spring,Aquarina1-Northaqua
+Aquarina,1-North,dark blue,70,0,0,0,0,0,0,23,0,0,0,1,0,0,5,0,0,spring,Aquarina1-Northdark blue
+Aquarina,1-North,dark blue ,70,0,5,0,0,0,5,0,0,0,25,0,0,0,0,0,0,fall,Aquarina1-Northdark blue 
+Aquarina,1-North,gray,20,0,20,0,0,0,0,0,0,0,50,10,0,0,0,0,0,fall,Aquarina1-Northgray
+Aquarina,1-North,gray,5,0,25,0,0,5,0,45,1,0,13,5,0,0,0,0,0,spring,Aquarina1-Northgray
+Aquarina,1-North,green,60,0,10,0,0,5,5,0,0,0,20,0,0,0,0,0,0,fall,Aquarina1-Northgreen
+Aquarina,1-North,green,40,0,0,0,0,0,5,40,5,0,0,5,0,0,5,0,0,spring,Aquarina1-Northgreen
+Aquarina,1-North,orange,60,0,10,0,0,0,0,0,2,0,23,5,0,0,0,0,0,fall,Aquarina1-Northorange
+Aquarina,1-North,orange,15,0,30,1,0,1,0,25,1,0,25,2,0,0,0,0,0,spring,Aquarina1-Northorange
+Aquarina,1-North,pink,60,0,0,0,0,0,5,0,0,0,35,0,0,0,0,0,0,fall,Aquarina1-Northpink
+Aquarina,1-North,pink,35,0,15,1,0,15,0,0,1,5,23,5,0,0,0,0,0,spring,Aquarina1-Northpink
+Aquarina,1-South, aqua,25,0,0,0,0,0,20,25,2,0,26,2,0,0,0,0,0,spring,Aquarina1-South aqua
+Aquarina,1-South,aqua,20,0,5,5,0,0,20,0,5,0,45,0,0,0,0,0,0,fall,Aquarina1-Southaqua
+Aquarina,1-South,dark blue,80,0,0,1,0,1,0,0,0,0,18,0,0,0,0,0,0,fall,Aquarina1-Southdark blue
+Aquarina,1-South,dark blue,85,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,Aquarina1-Southdark blue
+Aquarina,1-South,gray,30,0,0,0,0,0,0,0,4,0,46,20,0,0,0,0,0,fall,Aquarina1-Southgray
+Aquarina,1-South,gray,20,0,0,0,0,1,0,40,3,0,34,2,0,0,0,0,0,spring,Aquarina1-Southgray
+Aquarina,1-South,green,15,0,0,0,0,0,0,0,0,0,70,15,0,0,0,0,0,fall,Aquarina1-Southgreen
+Aquarina,1-South,green,10,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,spring,Aquarina1-Southgreen
+Aquarina,1-South,orange,10,0,0,1,0,0,0,0,5,0,82,2,0,0,0,0,0,fall,Aquarina1-Southorange
+Aquarina,1-South,orange,5,0,0,1,0,1,0,50,3,0,35,5,0,0,0,0,0,spring,Aquarina1-Southorange
+Aquarina,1-South,pink,40,0,0,0,0,0,19,0,0,0,40,1,0,0,0,0,0,fall,Aquarina1-Southpink
+Aquarina,1-South,pink,20,0,0,0,0,0,20,35,0,0,20,5,0,0,0,0,0,spring,Aquarina1-Southpink
+Aquarina,2-North,aqua,15,0,15,0,0,0,15,34,0,0,20,1,0,0,0,0,0,spring,Aquarina2-Northaqua
+Aquarina,2-North,blue,25,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,fall,Aquarina2-Northblue
+Aquarina,2-North,dark blue,60,0,15,5,0,0,5,0,0,0,15,0,0,0,0,0,0,fall,Aquarina2-Northdark blue
+Aquarina,2-North,dark blue,25,0,10,0,0,0,0,30,5,0,25,5,0,0,0,0,0,spring,Aquarina2-Northdark blue
+Aquarina,2-North,gray,60,0,0,0,0,0,0,0,0,0,30,5,0,5,0,0,0,fall,Aquarina2-Northgray
+Aquarina,2-North,gray,55,0,20,1,0,0,0,10,0,0,9,5,0,0,0,0,0,spring,Aquarina2-Northgray
+Aquarina,2-North,green,5,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,fall,Aquarina2-Northgreen
+Aquarina,2-North,green,2,0,0,1,2,0,0,0,3,0,82,10,0,0,0,0,0,spring,Aquarina2-Northgreen
+Aquarina,2-North,orange,30,0,10,0,0,0,30,0,0,0,20,10,0,0,0,0,0,fall,Aquarina2-Northorange
+Aquarina,2-North,orange,5,0,5,3,2,0,50,25,0,0,5,5,0,0,0,0,0,spring,Aquarina2-Northorange
+Aquarina,2-North,pink,50,0,0,0,0,10,0,0,5,0,15,20,0,0,0,0,0,fall,Aquarina2-Northpink
+Aquarina,2-North,pink,25,0,0,0,0,0,5,15,5,0,27,3,0,0,20,0,0,spring,Aquarina2-Northpink
+Aquarina,2-South,aqua,60,0,1,10,0,0,0,10,0,0,19,0,0,0,0,0,0,fall,Aquarina2-Southaqua
+Aquarina,2-South,aqua,40,0,10,1,0,0,10,25,0,0,13,1,0,0,0,0,0,spring,Aquarina2-Southaqua
+Aquarina,2-South,dark blue,40,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,fall,Aquarina2-Southdark blue
+Aquarina,2-South,dark blue,25,0,0,0,0,0,5,50,1,0,18,1,0,0,0,0,0,spring,Aquarina2-Southdark blue
+Aquarina,2-South,gray,20,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,fall,Aquarina2-Southgray
+Aquarina,2-South,gray,10,0,20,0,0,0,15,0,0,0,0,5,0,0,0,0,0,spring,Aquarina2-Southgray
+Aquarina,2-South,green,70,0,0,0,0,0,5,0,0,0,25,0,0,0,0,0,0,fall,Aquarina2-Southgreen
+Aquarina,2-South,green,10,0,10,0,0,0,20,20,5,0,32,1,1,0,0,1,0,spring,Aquarina2-Southgreen
+Aquarina,2-South,orange,55,0,5,0,0,0,5,5,0,0,30,0,0,0,0,0,0,fall,Aquarina2-Southorange
+Aquarina,2-South,orange,10,0,0,0,0,0,0,25,5,0,60,0,0,0,0,0,0,spring,Aquarina2-Southorange
+Aquarina,2-South,pink,70,0,0,0,0,0,10,0,0,0,20,0,0,0,0,0,0,fall,Aquarina2-Southpink
+Aquarina,2-South,pink,20,0,5,0,0,0,5,50,0,5,10,5,0,0,0,0,0,spring,Aquarina2-Southpink
+Aquarina,3-North,aqua,5,0,0,5,0,0,15,0,0,0,75,0,0,0,0,0,0,fall,Aquarina3-Northaqua
+Aquarina,3-North,aqua,10,0,45,3,5,0,0,10,2,0,15,10,0,0,0,0,0,spring,Aquarina3-Northaqua
+Aquarina,3-North,dark blue,75,0,0,0,0,5,10,0,0,0,10,0,0,0,0,0,0,fall,Aquarina3-Northdark blue
+Aquarina,3-North,dark blue,72,0,10,0,0,0,0,10,1,0,5,0,2,0,0,0,0,spring,Aquarina3-Northdark blue
+Aquarina,3-North,gray,5,0,0,0,0,0,0,0,5,0,60,30,0,0,0,0,0,fall,Aquarina3-Northgray
+Aquarina,3-North,gray,5,0,20,1,5,0,0,30,2,0,25,12,0,0,0,0,0,spring,Aquarina3-Northgray
+Aquarina,3-North,green,25,0,20,1,0,5,20,0,1,0,29,0,0,0,0,0,0,fall,Aquarina3-Northgreen
+Aquarina,3-North,green,5,0,15,1,0,0,5,0,0,0,19,0,0,0,55,0,0,spring,Aquarina3-Northgreen
+Aquarina,3-North,orange,50,0,0,2,0,5,0,0,1,0,38,3,0,1,0,0,0,fall,Aquarina3-Northorange
+Aquarina,3-North,orange,0,0,25,2,0,0,0,40,2,0,26,5,0,0,0,0,0,spring,Aquarina3-Northorange
+Aquarina,3-North,pink,15,0,0,0,0,0,25,25,0,0,35,0,0,0,0,0,0,fall,Aquarina3-Northpink
+Aquarina,3-North,pink,10,0,0,0,0,0,25,20,0,0,43,2,0,0,0,0,0,spring,Aquarina3-Northpink
+Aquarina,3-South,aqua,50,0,10,0,0,5,0,0,1,0,34,0,0,0,0,0,0,fall,Aquarina3-Southaqua
+Aquarina,3-South,aqua,30,0,0,0,0,0,0,30,5,0,35,0,0,0,0,0,0,spring,Aquarina3-Southaqua
+Aquarina,3-South,dark blue,40,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,fall,Aquarina3-Southdark blue
+Aquarina,3-South,dark blue,55,0,5,0,5,0,15,15,1,0,4,0,0,0,0,0,0,spring,Aquarina3-Southdark blue
+Aquarina,3-South,gray,40,0,5,0,0,20,0,0,0,0,35,0,0,0,0,0,0,fall,Aquarina3-Southgray
+Aquarina,3-South,gray,15,0,5,0,0,0,5,40,5,0,20,10,0,0,0,0,0,spring,Aquarina3-Southgray
+Aquarina,3-South,green,90,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,fall,Aquarina3-Southgreen
+Aquarina,3-South,green,60,0,10,0,0,0,5,0,0,0,24,1,0,0,0,0,0,spring,Aquarina3-Southgreen
+Aquarina,3-South,orange,10,0,0,0,0,40,10,0,2,0,38,0,0,0,0,0,0,fall,Aquarina3-Southorange
+Aquarina,3-South,orange,10,0,5,0,0,30,10,15,5,0,25,0,0,0,0,0,0,spring,Aquarina3-Southorange
+Aquarina,3-South,pink,10,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,fall,Aquarina3-Southpink
+Aquarina,3-South,pink,10,0,30,0,0,0,20,0,0,0,35,0,0,0,5,0,0,spring,Aquarina3-Southpink
+IAP,1-South,aqua,95,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,fall,IAP1-Southaqua
+IAP,1-South,aqua,5,0,80,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP1-Southaqua
+IAP,1-South,green,40,0,5,0,0,0,0,0,0,0,55,0,0,0,0,0,0,fall,IAP1-Southgreen
+IAP,1-South,green,50,0,30,0,0,0,0,0,0,0,20,0,0,0,0,0,0,spring,IAP1-Southgreen
+IAP,1-South,pink,30,0,0,0,0,0,0,0,0,0,65,5,0,0,0,0,0,fall,IAP1-Southpink
+IAP,1-South,pink,30,0,58,2,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP1-Southpink
+IAP,1-South,purple,10,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,fall,IAP1-Southpurple
+IAP,1-South,purple,10,0,40,3,0,0,0,0,0,0,47,0,0,0,0,0,0,spring,IAP1-Southpurple
+IAP,1-South,red,80,0,10,0,0,0,0,0,0,5,5,0,0,0,0,0,0,fall,IAP1-Southred
+IAP,1-South,red,50,0,25,2,0,5,0,0,2,0,16,0,0,0,0,0,0,spring,IAP1-Southred
+IAP,1-South,yellow,75,0,5,0,0,0,0,0,4,0,66,0,0,0,0,0,0,fall,IAP1-Southyellow
+IAP,1-South,yellow,30,0,44,1,0,0,0,0,5,0,20,0,0,0,0,0,0,spring,IAP1-Southyellow
+IAP,2-North,aqua,25,0,15,0,0,0,0,0,0,0,60,0,0,0,0,0,0,fall,IAP2-Northaqua
+IAP,2-North,aqua,10,0,70,5,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP2-Northaqua
+IAP,2-North,green,60,0,25,0,0,0,0,0,0,0,10,0,0,0,0,0,0,fall,IAP2-Northgreen
+IAP,2-North,green,15,0,68,1,0,0,0,0,6,0,10,0,0,0,0,0,0,spring,IAP2-Northgreen
+IAP,2-North,pink,50,0,15,0,0,0,0,0,0,0,34,1,0,0,0,0,0,fall,IAP2-Northpink
+IAP,2-North,pink,5,0,78,0,0,0,0,0,7,0,10,0,0,0,0,0,0,spring,IAP2-Northpink
+IAP,2-North,purple,65,0,10,0,0,0,0,0,8,0,17,0,0,0,0,0,0,fall,IAP2-Northpurple
+IAP,2-North,purple,30,0,40,1,0,0,0,0,1,0,28,0,0,0,0,0,0,spring,IAP2-Northpurple
+IAP,2-North,red,60,0,15,0,0,0,0,0,0,0,25,0,0,0,0,0,0,fall,IAP2-Northred
+IAP,2-North,red,25,0,60,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP2-Northred
+IAP,2-North,yellow,60,0,15,0,0,0,0,0,0,0,25,0,0,0,0,0,0,fall,IAP2-Northyellow
+IAP,2-North,yellow,20,0,70,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP2-Northyellow
+IAP,3-North, pink,60,0,39,0,0,0,0,0,1,0,0,0,0,0,0,0,0,fall,IAP3-North pink
+IAP,3-North,aqua,80,0,14,0,0,0,0,0,1,0,5,0,0,0,0,0,0,fall,IAP3-Northaqua
+IAP,3-North,aqua,70,0,25,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP3-Northaqua
+IAP,3-North,green,70,0,20,0,0,0,0,0,0,0,5,5,0,0,0,0,0,fall,IAP3-Northgreen
+IAP,3-North,green,55,0,29,1,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP3-Northgreen
+IAP,3-North,pink,55,0,34,1,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP3-Northpink
+IAP,3-North,purple,65,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fall,IAP3-Northpurple
+IAP,3-North,purple,65,0,25,1,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP3-Northpurple
+IAP,3-North,red,80,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fall,IAP3-Northred
+IAP,3-North,red,50,0,30,0,0,0,0,0,0,0,20,0,0,0,0,0,0,spring,IAP3-Northred
+IAP,3-North,yellow,95,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,fall,IAP3-Northyellow
+IAP,3-North,yellow,60,0,35,0,0,0,0,0,0,0,5,0,0,0,0,0,0,spring,IAP3-Northyellow
+IAP,4-North,aqua,70,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fall,IAP4-Northaqua
+IAP,4-North,aqua,15,0,70,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP4-Northaqua
+IAP,4-North,green,60,0,20,0,0,0,0,0,0,0,0,0,0,0,20,0,0,fall,IAP4-Northgreen
+IAP,4-North,green,20,0,70,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP4-Northgreen
+IAP,4-North,pink,75,0,10,0,0,0,0,0,1,0,0,0,0,0,14,0,0,fall,IAP4-Northpink
+IAP,4-North,pink,10,0,75,0,0,0,0,0,0,0,10,0,0,0,5,0,0,spring,IAP4-Northpink
+IAP,4-North,purple,10,0,20,0,0,0,0,0,0,0,50,8,0,0,12,0,0,fall,IAP4-Northpurple
+IAP,4-North,purple,5,0,90,0,0,0,0,0,0,0,5,0,0,0,0,0,0,spring,IAP4-Northpurple
+IAP,4-North,red,90,0,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,fall,IAP4-Northred
+IAP,4-North,red,25,0,60,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP4-Northred
+IAP,4-North,yellow,70,0,15,0,0,0,0,0,0,0,0,1,0,0,14,0,0,fall,IAP4-Northyellow
+IAP,4-North,yellow,15,0,75,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP4-Northyellow
+IAP,5-South ,aqua,60,0,17,0,0,0,0,0,13,0,10,0,0,0,0,0,0,spring,IAP5-South aqua
+IAP,5-South ,green,50,0,45,0,0,0,0,0,0,0,5,0,0,0,0,0,0,spring,IAP5-South green
+IAP,5-South ,pink,50,0,35,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP5-South pink
+IAP,5-South ,purple,55,0,30,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP5-South purple
+IAP,5-South ,red,55,0,20,0,0,0,0,0,10,0,15,0,0,0,0,0,0,spring,IAP5-South red
+IAP,5-South ,yellow,40,0,48,1,0,0,0,0,1,0,10,0,0,0,0,0,0,spring,IAP5-South yellow
+IAP,5-South,aqua,80,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,fall,IAP5-Southaqua
+IAP,5-South,green,30,0,40,0,0,0,0,0,0,0,25,0,0,5,0,0,0,fall,IAP5-Southgreen
+IAP,5-South,pink,50,0,42,0,0,0,0,0,3,0,10,0,0,0,0,0,0,fall,IAP5-Southpink
+IAP,5-South,purple,75,0,20,0,0,0,0,0,0,0,5,0,0,0,0,0,0,fall,IAP5-Southpurple
+IAP,5-South,red,85,0,10,0,0,0,0,0,0,0,5,0,0,0,0,0,0,fall,IAP5-Southred
+IAP,5-South,yellow,60,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,fall,IAP5-Southyellow
+IAP,6-South,aqua,70,0,10,0,0,0,0,0,0,0,20,0,0,0,0,0,0,fall,IAP6-Southaqua
+IAP,6-South,aqua,60,0,30,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP6-Southaqua
+IAP,6-South,green,10,0,20,1,0,0,0,0,1,0,10,5,0,0,63,0,0,fall,IAP6-Southgreen
+IAP,6-South,green,20,0,65,0,0,0,0,0,0,0,5,0,0,0,10,0,0,spring,IAP6-Southgreen
+IAP,6-South,pink,75,0,21,0,0,0,0,0,0,0,0,2,0,0,2,0,0,fall,IAP6-Southpink
+IAP,6-South,pink,15,0,65,0,0,0,0,0,0,0,15,0,0,0,5,0,0,spring,IAP6-Southpink
+IAP,6-South,purple,90,0,4,0,2,0,0,0,0,0,0,0,0,4,0,0,0,fall,IAP6-Southpurple
+IAP,6-South,purple,45,0,40,0,0,0,0,0,0,0,15,0,0,0,0,0,0,spring,IAP6-Southpurple
+IAP,6-South,red,65,0,0,0,0,0,0,0,0,0,20,0,0,0,15,0,0,fall,IAP6-Southred
+IAP,6-South,red,55,0,34,1,0,0,0,0,0,0,5,0,0,0,10,0,0,spring,IAP6-Southred
+IAP,6-South,yellow,75,0,10,0,0,0,0,0,0,0,0,0,0,0,15,0,0,fall,IAP6-Southyellow
+IAP,6-South,yellow,60,0,28,2,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,IAP6-Southyellow
+Lighthouse Cove,1-North,aqua,5,0,0,0,0,5,50,0,5,0,25,10,0,0,0,0,0,fall,Lighthouse Cove1-Northaqua
+Lighthouse Cove,1-North,aqua,5,0,15,1,5,15,5,20,2,0,17,15,0,0,0,0,0,spring,Lighthouse Cove1-Northaqua
+Lighthouse Cove,1-North,green,30,0,0,0,0,0,10,40,0,0,0,10,0,0,0,0,0,fall,Lighthouse Cove1-Northgreen
+Lighthouse Cove,1-North,green,5,0,0,0,5,0,20,50,1,0,14,5,0,0,0,0,0,spring,Lighthouse Cove1-Northgreen
+Lighthouse Cove,1-North,pink,10,0,0,0,0,0,30,20,1,0,29,10,0,0,0,0,0,fall,Lighthouse Cove1-Northpink
+Lighthouse Cove,1-North,pink,5,0,10,0,5,5,20,40,1,1,8,5,0,0,0,0,0,spring,Lighthouse Cove1-Northpink
+Lighthouse Cove,1-North,purple,40,0,0,0,0,15,0,15,5,0,5,20,0,0,0,0,0,fall,Lighthouse Cove1-Northpurple
+Lighthouse Cove,1-North,purple,15,0,5,0,3,10,15,30,3,1,13,5,0,0,0,0,0,spring,Lighthouse Cove1-Northpurple
+Lighthouse Cove,1-North,red,25,0,5,0,0,0,30,0,0,0,40,0,0,0,0,0,0,fall,Lighthouse Cove1-Northred
+Lighthouse Cove,1-North,red,25,0,5,0,5,15,15,20,0,0,5,10,0,0,0,0,0,spring,Lighthouse Cove1-Northred
+Lighthouse Cove,1-North,yellow,5,0,0,0,0,5,50,10,0,0,30,0,0,0,0,0,0,fall,Lighthouse Cove1-Northyellow
+Lighthouse Cove,1-North,yellow,5,0,20,0,3,15,20,10,2,0,15,10,0,0,0,0,0,spring,Lighthouse Cove1-Northyellow
+Lighthouse Cove,2-South,aqua,15,0,0,0,0,30,15,15,0,0,25,0,0,0,0,0,0,fall,Lighthouse Cove2-Southaqua
+Lighthouse Cove,2-South,aqua,5,0,5,0,0,5,0,25,10,5,40,5,0,0,0,0,0,spring,Lighthouse Cove2-Southaqua
+Lighthouse Cove,2-South,green,40,0,5,0,0,1,0,3,0,0,51,0,0,0,0,0,0,fall,Lighthouse Cove2-Southgreen
+Lighthouse Cove,2-South,green,15,0,5,0,5,5,0,15,5,5,40,5,0,0,0,0,0,spring,Lighthouse Cove2-Southgreen
+Lighthouse Cove,2-South,pink,0,0,15,2,0,5,25,0,0,0,53,0,0,0,0,0,0,fall,Lighthouse Cove2-Southpink
+Lighthouse Cove,2-South,pink,0,0,10,0,5,0,0,25,5,0,50,5,0,0,0,0,0,spring,Lighthouse Cove2-Southpink
+Lighthouse Cove,2-South,purple,70,0,5,0,0,0,0,10,0,0,15,0,0,0,0,0,0,fall,Lighthouse Cove2-Southpurple
+Lighthouse Cove,2-South,red,5,0,0,2,0,1,20,20,0,0,43,5,0,0,0,0,0,fall,Lighthouse Cove2-Southred
+Lighthouse Cove,2-South,red,0,0,5,0,0,20,0,60,0,5,10,0,0,0,0,0,0,spring,Lighthouse Cove2-Southred
+Lighthouse Cove,2-South,yellow,25,0,5,0,0,5,20,15,0,0,30,0,0,0,0,0,0,fall,Lighthouse Cove2-Southyellow
+Lighthouse Cove,2-South,yellow,5,0,5,0,5,0,0,20,0,0,60,5,0,0,0,0,0,spring,Lighthouse Cove2-Southyellow
+Lighthouse Cove,3-North,aqua,10,0,5,0,0,0,20,5,0,0,60,0,0,0,0,0,0,fall,Lighthouse Cove3-Northaqua
+Lighthouse Cove,3-North,aqua,15,0,5,0,0,0,50,5,0,0,20,5,0,0,0,0,0,spring,Lighthouse Cove3-Northaqua
+Lighthouse Cove,3-North,green,35,0,0,0,0,5,2,30,0,0,28,0,0,0,0,0,0,fall,Lighthouse Cove3-Northgreen
+Lighthouse Cove,3-North,green,10,0,0,0,0,0,30,20,5,0,35,0,0,0,0,0,0,spring,Lighthouse Cove3-Northgreen
+Lighthouse Cove,3-North,pink,20,0,2,0,0,0,50,10,0,0,18,0,0,0,0,0,0,fall,Lighthouse Cove3-Northpink
+Lighthouse Cove,3-North,pink,40,0,10,0,0,5,10,20,0,0,10,5,0,0,0,0,0,spring,Lighthouse Cove3-Northpink
+Lighthouse Cove,3-North,purple,40,0,2,0,0,5,10,30,0,0,13,0,0,0,0,0,0,fall,Lighthouse Cove3-Northpurple
+Lighthouse Cove,3-North,red,35,0,10,0,0,1,25,20,0,0,9,0,0,0,0,0,0,fall,Lighthouse Cove3-Northred
+Lighthouse Cove,3-North,red,40,0,10,0,5,10,0,20,5,5,2,3,0,0,0,0,0,spring,Lighthouse Cove3-Northred
+Lighthouse Cove,3-North,yellow,30,0,5,0,0,0,5,0,2,0,58,0,0,0,0,0,0,fall,Lighthouse Cove3-Northyellow
+Lighthouse Cove,3-North,yellow,10,0,0,0,5,5,0,15,5,0,60,0,0,0,0,0,0,spring,Lighthouse Cove3-Northyellow
+Lighthouse Cove,4- South,aqua,1,0,0,0,0,20,60,0,0,0,19,0,0,0,0,0,0,fall,Lighthouse Cove4- Southaqua
+Lighthouse Cove,4- South,green,15,0,0,0,0,0,50,10,0,0,25,0,0,0,0,0,0,fall,Lighthouse Cove4- Southgreen
+Lighthouse Cove,4- South,pink,1,0,5,0,0,5,65,0,0,0,23,0,0,0,0,1,0,fall,Lighthouse Cove4- Southpink
+Lighthouse Cove,4- South,purple,40,0,15,0,0,0,5,10,0,0,30,0,0,0,0,0,0,fall,Lighthouse Cove4- Southpurple
+Lighthouse Cove,4- South,red,5,0,0,0,0,0,50,10,0,0,35,0,0,0,0,0,0,fall,Lighthouse Cove4- Southred
+Lighthouse Cove,4- South,yellow,10,0,10,0,10,1,25,0,0,0,44,0,0,0,0,0,0,fall,Lighthouse Cove4- Southyellow
+Lighthouse Cove,4-South,aqua,5,0,10,0,5,0,40,20,0,0,0,0,0,0,0,0,0,spring,Lighthouse Cove4-Southaqua
+Lighthouse Cove,4-South,green,10,0,5,0,0,5,60,15,0,0,0,0,0,0,0,0,0,spring,Lighthouse Cove4-Southgreen
+Lighthouse Cove,4-South,pink,5,0,20,0,0,20,25,0,0,0,0,0,0,0,0,0,0,spring,Lighthouse Cove4-Southpink
+Lighthouse Cove,4-South,purple,40,0,15,0,0,0,10,0,0,0,0,0,0,0,0,0,0,spring,Lighthouse Cove4-Southpurple
+Lighthouse Cove,4-South,red,0,0,5,0,0,20,60,5,1,0,4,5,0,0,0,0,0,spring,Lighthouse Cove4-Southred
+Lighthouse Cove,4-South,yellow,15,0,15,0,5,10,50,0,0,0,0,0,0,0,0,0,0,spring,Lighthouse Cove4-Southyellow
+Lighthouse Cove,5-North,aqua,40,0,5,0,0,0,1,10,1,0,43,0,0,0,0,0,0,fall,Lighthouse Cove5-Northaqua
+Lighthouse Cove,5-North,aqua,25,0,0,0,5,0,10,50,0,0,10,0,0,0,0,0,0,spring,Lighthouse Cove5-Northaqua
+Lighthouse Cove,5-North,green,55,0,10,0,0,0,5,0,1,0,29,0,0,0,0,0,0,fall,Lighthouse Cove5-Northgreen
+Lighthouse Cove,5-North,green,30,0,0,0,5,0,5,35,5,0,20,0,0,0,0,0,0,spring,Lighthouse Cove5-Northgreen
+Lighthouse Cove,5-North,pink,50,0,5,0,0,0,0,25,0,0,20,0,0,0,0,0,0,fall,Lighthouse Cove5-Northpink
+Lighthouse Cove,5-North,pink,25,0,0,0,5,0,5,55,5,0,5,0,0,0,0,0,0,spring,Lighthouse Cove5-Northpink
+Lighthouse Cove,5-North,purple,25,0,5,0,0,0,5,0,0,0,65,0,0,0,0,0,0,fall,Lighthouse Cove5-Northpurple
+Lighthouse Cove,5-North,purple,5,0,10,0,5,0,0,5,5,0,60,10,0,0,0,0,0,spring,Lighthouse Cove5-Northpurple
+Lighthouse Cove,5-North,red,60,0,15,0,0,0,2,10,0,0,13,0,0,0,0,0,0,fall,Lighthouse Cove5-Northred
+Lighthouse Cove,5-North,yellow,5,0,5,0,0,25,25,0,0,0,40,0,0,0,0,0,0,fall,Lighthouse Cove5-Northyellow
+Lighthouse Cove,5-North,yellow,5,0,0,0,0,50,10,0,5,0,17,0,0,0,0,0,0,spring,Lighthouse Cove5-Northyellow
+Lighthouse Cove,6-South,aqua,60,0,5,0,0,0,0,0,0,0,35,0,0,0,0,0,0,fall,Lighthouse Cove6-Southaqua
+Lighthouse Cove,6-South,aqua,15,0,5,0,5,5,0,10,3,0,51,0,0,0,5,0,0,spring,Lighthouse Cove6-Southaqua
+Lighthouse Cove,6-South,green,50,0,5,0,0,0,10,10,0,0,25,0,0,0,0,0,0,fall,Lighthouse Cove6-Southgreen
+Lighthouse Cove,6-South,green,20,0,5,0,3,0,0,30,0,5,37,0,0,0,0,0,0,spring,Lighthouse Cove6-Southgreen
+Lighthouse Cove,6-South,pink,15,0,0,0,0,0,40,30,0,0,15,0,0,0,0,0,0,fall,Lighthouse Cove6-Southpink
+Lighthouse Cove,6-South,pink,20,0,5,0,5,5,20,10,1,5,19,10,0,0,0,0,0,spring,Lighthouse Cove6-Southpink
+Lighthouse Cove,6-South,purple,20,0,0,0,0,10,25,0,0,0,45,0,0,0,0,0,0,fall,Lighthouse Cove6-Southpurple
+Lighthouse Cove,6-South,purple,15,0,10,0,5,20,20,10,1,0,16,3,0,0,0,0,0,spring,Lighthouse Cove6-Southpurple
+Lighthouse Cove,6-South,red,5,0,0,0,0,20,20,0,0,0,55,0,0,0,0,0,0,fall,Lighthouse Cove6-Southred
+Lighthouse Cove,6-South,red,5,0,15,0,5,20,20,10,1,0,19,5,0,0,0,0,0,spring,Lighthouse Cove6-Southred
+Lighthouse Cove,6-South,yellow,35,0,2,0,0,0,0,25,1,0,27,0,0,0,10,0,0,fall,Lighthouse Cove6-Southyellow
+MBP,10-North,aqua,30,0,10,0,0,0,5,0,0,0,45,10,0,0,0,0,0,fall,MBP10-Northaqua
+MBP,10-North,aqua,60,0,20,0,2,0,0,5,1,0,7,5,0,0,0,0,0,spring,MBP10-Northaqua
+MBP,10-North,green,25,0,10,0,0,0,5,0,0,0,0,0,0,0,0,0,60,fall,MBP10-Northgreen
+MBP,10-North,green,25,0,58,0,1,0,0,0,1,0,5,10,0,0,0,0,0,spring,MBP10-Northgreen
+MBP,10-North,pink,60,0,0,0,0,0,0,15,0,0,25,0,0,0,0,0,0,fall,MBP10-Northpink
+MBP,10-North,pink,59,0,10,0,0,0,15,10,1,0,0,5,0,0,0,0,0,spring,MBP10-Northpink
+MBP,10-North,purple,60,0,5,0,0,0,5,0,0,0,20,10,0,0,0,0,0,fall,MBP10-Northpurple
+MBP,10-North,purple,60,0,5,0,1,0,0,5,0,0,19,0,0,0,10,0,0,spring,MBP10-Northpurple
+MBP,10-North,red,40,0,0,5,0,0,25,5,0,0,20,5,0,0,0,0,0,fall,MBP10-Northred
+MBP,10-North,red,50,0,10,0,3,2,5,20,1,0,9,0,0,0,0,0,0,spring,MBP10-Northred
+MBP,10-North,yellow,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,fall,MBP10-Northyellow
+MBP,10-North,yellow,5,0,69,1,2,0,0,5,0,5,10,3,0,0,0,0,0,spring,MBP10-Northyellow
+MBP,1-South, green,40,0,10,0,0,0,0,0,0,0,50,0,0,0,0,0,0,fall,MBP1-South green
+MBP,1-South,aqua,60,0,15,0,0,0,0,0,0,0,25,0,0,0,0,0,0,fall,MBP1-Southaqua
+MBP,1-South,aqua,30,0,20,0,0,0,0,20,0,10,20,0,0,0,0,0,0,spring,MBP1-Southaqua
+MBP,1-South,green,30,0,30,5,0,0,0,10,0,5,20,0,0,0,0,0,0,spring,MBP1-Southgreen
+MBP,1-South,pink,40,0,15,0,0,0,0,0,0,0,44,0,0,0,0,1,0,fall,MBP1-Southpink
+MBP,1-South,pink,15,0,30,0,0,0,5,10,0,5,35,0,0,0,0,0,0,spring,MBP1-Southpink
+MBP,1-South,purple,60,0,10,0,10,0,0,0,0,0,20,0,0,0,0,0,0,fall,MBP1-Southpurple
+MBP,1-South,purple,25,0,30,0,5,0,20,0,0,5,5,0,0,0,0,0,0,spring,MBP1-Southpurple
+MBP,1-South,red,25,0,0,0,0,0,0,0,0,0,64,0,0,0,0,1,10,fall,MBP1-Southred
+MBP,1-South,red,0,0,80,1,0,0,0,5,2,5,7,0,0,0,0,0,0,spring,MBP1-Southred
+MBP,1-South,yellow,15,0,10,1,0,0,0,0,0,0,74,0,0,0,0,0,0,fall,MBP1-Southyellow
+MBP,1-South,yellow,5,0,0,0,0,0,0,64,0,10,20,1,0,0,0,0,0,spring,MBP1-Southyellow
+MBP,2-South, aqua,15,0,20,0,0,0,1,0,0,0,14,50,0,0,0,0,0,fall,MBP2-South aqua
+MBP,2-South,green,15,0,5,1,0,0,10,25,0,0,34,10,0,0,0,0,0,fall,MBP2-Southgreen
+MBP,2-South,pink,40,0,5,5,10,0,5,5,0,0,10,20,0,0,0,0,0,fall,MBP2-Southpink
+MBP,2-South,purple,60,0,0,0,10,0,0,15,0,0,15,0,0,0,0,0,0,fall,MBP2-Southpurple
+MBP,2-South,red,20,0,10,1,0,0,5,0,0,0,44,20,0,0,0,0,0,fall,MBP2-Southred
+MBP,2-South,yellow,40,0,5,0,0,5,5,0,0,0,40,5,0,0,0,0,0,fall,MBP2-Southyellow
+MBP,3-South,aqua,10,0,5,5,0,0,40,0,0,0,30,10,0,0,0,0,0,fall,MBP3-Southaqua
+MBP,3-South,aqua,5,0,20,5,0,0,40,0,0,0,20,10,0,0,0,0,0,spring,MBP3-Southaqua
+MBP,3-South,green,50,0,5,5,0,0,0,0,0,0,5,35,0,0,0,0,0,fall,MBP3-Southgreen
+MBP,3-South,green,20,0,0,5,0,0,0,20,0,0,30,25,0,0,0,0,0,spring,MBP3-Southgreen
+MBP,3-South,pink,25,0,20,5,0,0,0,0,0,0,35,15,0,0,0,0,0,fall,MBP3-Southpink
+MBP,3-South,pink,5,0,35,3,0,5,5,0,0,0,42,5,0,0,0,0,0,spring,MBP3-Southpink
+MBP,3-South,purple,50,0,15,5,0,0,20,0,0,0,0,10,0,0,0,0,0,fall,MBP3-Southpurple
+MBP,3-South,purple,15,0,10,5,5,5,0,0,5,5,50,0,0,0,0,0,0,spring,MBP3-Southpurple
+MBP,3-South,red,50,0,5,0,10,5,5,5,0,0,10,10,0,0,0,0,0,fall,MBP3-Southred
+MBP,3-South,red,15,0,10,0,5,5,0,10,5,0,40,10,0,0,0,0,0,spring,MBP3-Southred
+MBP,3-South,yellow,65,0,5,5,0,5,5,0,0,0,10,5,0,0,0,0,0,fall,MBP3-Southyellow
+MBP,3-South,yellow,0,0,10,5,5,10,10,15,0,0,40,5,0,0,0,0,0,spring,MBP3-Southyellow
+MBP,4-South,aqua,60,0,0,0,0,0,0,20,0,0,15,5,0,0,0,0,0,fall,MBP4-Southaqua
+MBP,4-South,green,25,0,10,1,0,0,1,20,0,0,28,15,0,0,0,0,0,fall,MBP4-Southgreen
+MBP,4-South,pink,50,0,10,0,10,5,10,0,0,0,5,10,0,0,0,0,0,fall,MBP4-Southpink
+MBP,4-South,purple,60,0,5,0,0,0,0,10,0,0,15,10,0,0,0,0,0,fall,MBP4-Southpurple
+MBP,4-South,red,40,0,15,5,10,5,15,0,0,0,5,5,0,0,0,0,0,fall,MBP4-Southred
+MBP,4-South,yellow,15,0,0,2,0,0,0,0,0,0,73,10,0,0,0,0,0,fall,MBP4-Southyellow
+MBP,5-South,aqua,30,0,15,0,10,0,0,20,0,0,25,0,0,0,0,0,0,fall,MBP5-Southaqua
+MBP,5-South,aqua,15,0,0,0,5,5,0,10,5,0,55,5,0,0,0,0,0,spring,MBP5-Southaqua
+MBP,5-South,green,50,0,15,0,10,0,0,5,0,0,15,5,0,0,0,0,0,fall,MBP5-Southgreen
+MBP,5-South,green,40,0,15,0,0,0,0,30,5,0,10,0,0,0,0,0,0,spring,MBP5-Southgreen
+MBP,5-South,pink,50,0,0,2,10,0,0,5,0,0,13,20,0,0,0,0,0,fall,MBP5-Southpink
+MBP,5-South,pink,20,0,30,1,5,0,0,10,0,0,29,5,0,0,0,0,0,spring,MBP5-Southpink
+MBP,5-South,purple,60,0,20,0,0,0,0,0,0,0,15,5,0,0,0,0,0,fall,MBP5-Southpurple
+MBP,5-South,purple,30,0,15,5,0,5,10,20,5,0,5,0,0,0,0,0,0,spring,MBP5-Southpurple
+MBP,5-South,red,55,0,10,5,0,0,0,15,0,0,5,10,0,0,0,0,0,fall,MBP5-Southred
+MBP,5-South,red,40,0,15,0,0,0,0,15,0,0,25,5,0,0,0,0,0,spring,MBP5-Southred
+MBP,5-South,yellow,50,0,5,5,0,0,0,5,0,0,30,5,0,0,0,0,0,fall,MBP5-Southyellow
+MBP,5-South,yellow,15,0,10,0,0,0,40,15,0,0,20,0,0,0,0,0,0,spring,MBP5-Southyellow
+MBP,6-North,aqua,48,0,2,0,1,0,2,1,1,0,43,2,0,0,0,0,0,fall,MBP6-Northaqua
+MBP,6-North,aqua,15,0,55,0,5,0,5,5,5,0,0,10,0,0,0,0,0,spring,MBP6-Northaqua
+MBP,6-North,green,40,0,8,0,1,0,5,0,0,0,46,0,0,0,0,0,0,fall,MBP6-Northgreen
+MBP,6-North,green,25,0,15,0,5,0,0,0,5,0,40,10,0,0,0,0,0,spring,MBP6-Northgreen
+MBP,6-North,pink,25,0,0,0,0,0,0,0,0,0,73,2,0,0,0,0,0,fall,MBP6-Northpink
+MBP,6-North,pink,30,0,20,0,0,0,10,25,0,0,10,5,0,0,0,0,0,spring,MBP6-Northpink
+MBP,6-North,purple,25,0,0,0,1,1,5,0,0,0,18,50,0,0,0,0,0,fall,MBP6-Northpurple
+MBP,6-North,purple,2,0,5,0,5,0,10,53,5,0,5,15,0,0,0,0,0,spring,MBP6-Northpurple
+MBP,6-North,red,15,0,35,0,1,0,1,1,0,0,35,12,0,0,0,0,0,fall,MBP6-Northred
+MBP,6-North,red,10,0,30,0,5,0,0,15,0,0,30,10,0,0,0,0,0,spring,MBP6-Northred
+MBP,6-North,yellow,53,0,4,0,0,1,0,0,0,0,34,6,0,0,0,0,0,fall,MBP6-Northyellow
+MBP,6-North,yellow,25,0,50,0,0,0,0,5,5,0,0,5,0,0,10,0,0,spring,MBP6-Northyellow
+MBP,7-North,aqua,43,0,2,0,1,1,3,0,1,0,39,10,0,0,0,0,0,fall,MBP7-Northaqua
+MBP,7-North,aqua,40,0,20,0,3,0,20,0,1,0,11,5,0,0,0,0,0,spring,MBP7-Northaqua
+MBP,7-North,green,28,0,0,0,0,0,1,0,0,0,61,10,0,0,0,0,0,fall,MBP7-Northgreen
+MBP,7-North,green,15,0,0,0,3,0,0,15,1,0,56,5,0,0,5,0,0,spring,MBP7-Northgreen
+MBP,7-North,pink,50,0,2,1,2,0,0,5,1,0,38,1,0,0,0,0,0,fall,MBP7-Northpink
+MBP,7-North,pink,20,0,30,0,5,2,5,25,1,0,12,0,0,0,0,0,0,spring,MBP7-Northpink
+MBP,7-North,purple,48,0,1,0,10,0,2,1,0,0,36,2,0,0,0,0,0,fall,MBP7-Northpurple
+MBP,7-North,purple,20,0,43,0,5,0,5,15,0,0,10,2,0,0,0,0,0,spring,MBP7-Northpurple
+MBP,7-North,red,40,0,3,1,2,0,0,0,1,0,51,6,0,0,0,0,0,fall,MBP7-Northred
+MBP,7-North,red,10,0,55,0,0,0,25,0,1,0,4,5,0,0,0,0,0,spring,MBP7-Northred
+MBP,7-North,yellow,40,0,1,1,0,0,2,1,1,0,49,5,0,0,0,0,0,fall,MBP7-Northyellow
+MBP,7-North,yellow,25,0,20,1,2,3,20,10,1,0,18,0,0,0,0,0,0,spring,MBP7-Northyellow
+MBP,8-North,aqua,5,0,0,0,1,3,10,0,0,0,41,40,0,0,0,0,0,fall,MBP8-Northaqua
+MBP,8-North,aqua,10,0,30,0,2,1,10,10,1,0,0,16,20,0,0,0,0,spring,MBP8-Northaqua
+MBP,8-North,green,10,0,1,0,0,0,2,0,0,0,39,47,0,0,0,1,0,fall,MBP8-Northgreen
+MBP,8-North,green,15,0,55,1,2,3,5,0,1,0,5,8,5,0,0,0,0,spring,MBP8-Northgreen
+MBP,8-North,pink,40,0,8,1,1,0,0,0,0,0,14,35,0,0,0,1,0,fall,MBP8-Northpink
+MBP,8-North,pink,15,0,40,1,0,1,0,20,0,0,0,13,10,0,0,0,0,spring,MBP8-Northpink
+MBP,8-North,purple,35,0,0,1,0,0,0,5,0,0,49,10,0,0,0,0,0,fall,MBP8-Northpurple
+MBP,8-North,purple,20,0,15,0,3,5,0,41,1,0,0,10,5,0,0,0,0,spring,MBP8-Northpurple
+MBP,8-North,red,66,0,25,1,0,0,2,1,0,0,5,5,0,0,0,0,0,fall,MBP8-Northred
+MBP,8-North,red,20,0,53,0,1,0,0,20,1,0,0,5,0,0,0,0,0,spring,MBP8-Northred
+MBP,8-North,yellow,8,0,0,0,0,0,3,0,0,0,34,55,0,0,0,0,0,fall,MBP8-Northyellow
+MBP,8-North,yellow,5,0,30,0,5,1,0,15,1,0,0,38,5,0,0,0,0,spring,MBP8-Northyellow
+MBP,9-North,aqua,40,0,2,0,0,0,0,1,1,0,54,2,0,0,0,0,0,fall,MBP9-Northaqua
+MBP,9-North,green,46,0,2,0,0,0,0,0,1,0,57,8,0,0,0,0,0,fall,MBP9-Northgreen
+MBP,9-North,pink,60,0,2,0,0,1,4,0,0,0,33,0,0,0,0,0,0,fall,MBP9-Northpink
+MBP,9-North,purple,52,0,1,0,0,0,0,0,2,0,44,1,0,0,0,0,0,fall,MBP9-Northpurple
+MBP,9-North,red,50,0,0,0,2,0,2,0,1,0,44,1,0,0,0,0,0,fall,MBP9-Northred
+MBP,9-North,yellow,5,0,10,1,0,0,3,0,0,0,79,2,0,0,0,0,0,fall,MBP9-Northyellow
+Melbourne Shores,1-North,aqua,50,0,0,0,10,0,10,10,0,0,20,0,0,0,0,0,0,fall,Melbourne Shores1-Northaqua
+Melbourne Shores,1-North,aqua,40,0,0,0,0,0,15,35,0,0,10,0,0,0,0,0,0,spring,Melbourne Shores1-Northaqua
+Melbourne Shores,1-North,green,50,0,0,0,0,0,0,10,0,0,40,0,0,0,0,0,0,fall,Melbourne Shores1-Northgreen
+Melbourne Shores,1-North,pink,40,0,0,0,0,0,0,50,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores1-Northpink
+Melbourne Shores,1-North,pink,35,0,0,0,0,0,0,50,5,0,10,0,0,0,0,0,0,spring,Melbourne Shores1-Northpink
+Melbourne Shores,1-North,purple,20,0,0,0,10,0,50,10,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores1-Northpurple
+Melbourne Shores,1-North,purple,10,0,0,0,0,0,60,20,0,0,10,0,0,0,0,0,0,spring,Melbourne Shores1-Northpurple
+Melbourne Shores,1-North,red,2,0,0,0,0,0,60,15,1,0,22,0,0,0,0,0,0,fall,Melbourne Shores1-Northred
+Melbourne Shores,1-North,red,2,0,0,0,0,0,50,25,1,0,22,0,0,0,0,0,0,spring,Melbourne Shores1-Northred
+Melbourne Shores,1-North,yellow,40,0,0,0,10,0,0,0,0,0,50,0,0,0,0,0,0,fall,Melbourne Shores1-Northyellow
+Melbourne Shores,1-North,yellow,15,0,60,0,0,0,0,0,0,0,25,0,0,0,0,0,0,spring,Melbourne Shores1-Northyellow
+Melbourne Shores,1-South,aqua,5,0,0,0,0,0,40,0,0,0,45,0,0,0,0,0,0,fall,Melbourne Shores1-Southaqua
+Melbourne Shores,1-South,aqua,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,spring,Melbourne Shores1-Southaqua
+Melbourne Shores,1-South,green,70,0,10,0,0,0,0,1,0,0,19,0,0,0,0,0,0,fall,Melbourne Shores1-Southgreen
+Melbourne Shores,1-South,green,20,0,15,0,5,15,0,20,5,0,20,0,0,0,0,0,0,spring,Melbourne Shores1-Southgreen
+Melbourne Shores,1-South,pink,60,0,0,0,0,0,0,30,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores1-Southpink
+Melbourne Shores,1-South,pink,20,0,0,0,5,5,0,30,0,0,37,3,0,0,0,0,0,spring,Melbourne Shores1-Southpink
+Melbourne Shores,1-South,purple,5,0,0,1,0,0,30,1,0,0,63,0,0,0,0,0,0,fall,Melbourne Shores1-Southpurple
+Melbourne Shores,1-South,purple,5,0,0,0,0,5,0,5,5,0,55,25,0,0,0,0,0,spring,Melbourne Shores1-Southpurple
+Melbourne Shores,1-South,red,25,0,0,0,10,0,0,0,0,0,65,0,0,0,0,0,0,fall,Melbourne Shores1-Southred
+Melbourne Shores,1-South,red,10,0,20,0,5,10,0,25,0,0,30,0,0,0,0,0,0,spring,Melbourne Shores1-Southred
+Melbourne Shores,1-South,yellow,30,0,0,0,0,0,30,3,0,0,17,0,0,0,0,0,0,fall,Melbourne Shores1-Southyellow
+Melbourne Shores,1-South,yellow,0,0,10,0,0,15,50,10,1,0,11,3,0,0,0,0,0,spring,Melbourne Shores1-Southyellow
+Melbourne Shores,2-North,aqua,70,0,5,0,0,0,0,5,0,0,20,0,0,0,0,0,0,fall,Melbourne Shores2-Northaqua
+Melbourne Shores,2-North,aqua,5,0,15,0,5,0,0,60,2,0,13,0,0,0,0,0,0,spring,Melbourne Shores2-Northaqua
+Melbourne Shores,2-North,green,60,0,15,0,0,1,0,0,0,0,24,0,0,0,0,0,0,fall,Melbourne Shores2-Northgreen
+Melbourne Shores,2-North,green,15,0,50,0,0,2,0,15,3,0,15,0,0,0,0,0,0,spring,Melbourne Shores2-Northgreen
+Melbourne Shores,2-North,pink,30,0,0,0,0,0,40,15,0,0,15,0,0,0,0,0,0,fall,Melbourne Shores2-Northpink
+Melbourne Shores,2-North,pink,20,0,15,0,5,0,10,40,0,0,10,0,0,0,0,0,0,spring,Melbourne Shores2-Northpink
+Melbourne Shores,2-North,purple,35,0,0,0,0,0,50,15,0,0,0,0,0,0,0,0,0,fall,Melbourne Shores2-Northpurple
+Melbourne Shores,2-North,purple,30,0,10,0,5,2,25,20,0,0,8,0,0,0,0,0,0,spring,Melbourne Shores2-Northpurple
+Melbourne Shores,2-North,red,50,0,5,0,10,0,30,0,0,0,5,0,0,0,0,0,0,fall,Melbourne Shores2-Northred
+Melbourne Shores,2-North,red,20,0,20,0,5,0,5,30,0,0,20,0,0,0,0,0,0,spring,Melbourne Shores2-Northred
+Melbourne Shores,2-North,yellow,25,0,0,0,0,0,50,15,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores2-Northyellow
+Melbourne Shores,2-North,yellow,5,0,5,0,0,1,20,50,2,0,17,0,0,0,0,0,0,spring,Melbourne Shores2-Northyellow
+Melbourne Shores,2-South,aqua,5,0,0,0,0,0,70,20,0,0,5,0,0,0,0,0,0,fall,Melbourne Shores2-Southaqua
+Melbourne Shores,2-South,aqua,5,0,15,0,3,5,40,15,2,5,8,2,0,0,0,0,0,spring,Melbourne Shores2-Southaqua
+Melbourne Shores,2-South,green,40,0,0,0,0,0,50,0,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores2-Southgreen
+Melbourne Shores,2-South,green,20,0,30,0,3,0,20,20,2,0,5,0,0,0,0,0,0,spring,Melbourne Shores2-Southgreen
+Melbourne Shores,2-South,pink,50,0,0,1,0,0,0,0,0,0,49,0,0,0,0,0,0,fall,Melbourne Shores2-Southpink
+Melbourne Shores,2-South,pink,15,0,15,0,3,5,5,40,3,0,14,0,0,0,0,0,0,spring,Melbourne Shores2-Southpink
+Melbourne Shores,2-South,purple,20,0,0,0,0,0,60,0,0,0,20,0,0,0,0,0,0,fall,Melbourne Shores2-Southpurple
+Melbourne Shores,2-South,purple,10,0,20,0,5,2,25,20,0,0,13,5,0,0,0,0,0,spring,Melbourne Shores2-Southpurple
+Melbourne Shores,2-South,red,40,0,0,0,15,0,0,15,0,0,30,0,0,0,0,0,0,fall,Melbourne Shores2-Southred
+Melbourne Shores,2-South,red,5,0,5,0,5,3,0,20,2,0,60,0,0,0,0,0,0,spring,Melbourne Shores2-Southred
+Melbourne Shores,2-South,yellow,70,0,0,0,10,0,0,0,0,0,20,0,0,0,0,0,0,fall,Melbourne Shores2-Southyellow
+Melbourne Shores,2-South,yellow,5,0,10,0,5,0,0,15,2,0,62,1,0,0,0,0,0,spring,Melbourne Shores2-Southyellow
+Melbourne Shores,3-North,aqua,10,0,0,0,0,0,0,25,0,0,65,0,0,0,0,0,0,fall,Melbourne Shores3-Northaqua
+Melbourne Shores,3-North,aqua,5,0,0,0,0,2,0,60,0,0,18,0,0,0,5,0,0,spring,Melbourne Shores3-Northaqua
+Melbourne Shores,3-North,dark blue,40,0,10,0,0,0,5,10,0,0,35,0,0,0,0,0,0,fall,Melbourne Shores3-Northdark blue
+Melbourne Shores,3-North,dark blue,20,0,0,0,0,0,10,15,5,0,50,0,0,0,0,0,0,spring,Melbourne Shores3-Northdark blue
+Melbourne Shores,3-North,green,60,0,10,0,0,0,0,0,0,0,30,0,0,0,0,0,0,fall,Melbourne Shores3-Northgreen
+Melbourne Shores,3-North,green,0,0,5,0,0,0,20,10,0,0,44,0,0,0,20,0,0,spring,Melbourne Shores3-Northgreen
+Melbourne Shores,3-North,pink,40,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,fall,Melbourne Shores3-Northpink
+Melbourne Shores,3-North,pink,15,0,0,0,0,5,0,50,0,0,30,0,0,0,0,0,0,spring,Melbourne Shores3-Northpink
+Melbourne Shores,3-North,red,20,0,10,0,0,0,50,15,0,0,5,0,0,0,0,0,0,fall,Melbourne Shores3-Northred
+Melbourne Shores,3-North,red,5,0,10,0,0,5,40,20,3,0,17,0,0,0,0,0,0,spring,Melbourne Shores3-Northred
+Melbourne Shores,3-North,yellow,40,0,0,0,0,0,0,10,0,0,50,0,0,0,0,0,0,fall,Melbourne Shores3-Northyellow
+Melbourne Shores,3-North,yellow,2,0,10,0,0,0,0,50,5,0,33,0,0,0,0,0,0,spring,Melbourne Shores3-Northyellow
+Melbourne Shores,3-South,aqua,50,0,0,0,0,0,20,10,0,0,20,0,0,0,0,0,0,fall,Melbourne Shores3-Southaqua
+Melbourne Shores,3-South,green,80,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores3-Southgreen
+Melbourne Shores,3-South,green,30,0,0,0,0,15,0,25,0,0,30,0,0,0,0,0,0,spring,Melbourne Shores3-Southgreen
+Melbourne Shores,3-South,pink,60,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,fall,Melbourne Shores3-Southpink
+Melbourne Shores,3-South,pink,1,0,0,0,0,0,0,30,0,0,69,0,0,0,0,0,0,spring,Melbourne Shores3-Southpink
+Melbourne Shores,3-South,purple,25,0,10,0,0,0,40,0,0,0,25,0,0,0,0,0,0,fall,Melbourne Shores3-Southpurple
+Melbourne Shores,3-South,purple,15,0,70,0,0,0,0,10,1,0,4,0,0,0,0,0,0,spring,Melbourne Shores3-Southpurple
+Melbourne Shores,3-South,red,70,0,0,0,0,0,0,15,0,0,15,0,0,0,0,0,0,fall,Melbourne Shores3-Southred
+Melbourne Shores,3-South,red,35,0,0,0,5,0,0,55,0,0,5,0,0,0,0,0,0,spring,Melbourne Shores3-Southred
+Melbourne Shores,3-South,yellow,80,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,fall,Melbourne Shores3-Southyellow
+Melbourne Shores,3-South,yellow,30,0,0,0,0,0,5,5,0,0,60,0,0,0,0,0,0,spring,Melbourne Shores3-Southyellow
+Sebastian,1-South,aqua,10,0,0,5,0,0,20,0,0,0,64,0,0,0,0,1,0,fall,Sebastian1-Southaqua
+Sebastian,1-South,aqua,10,0,25,1,5,0,30,0,0,5,24,0,0,0,0,0,0,spring,Sebastian1-Southaqua
+Sebastian,1-South,black,1,0,0,0,5,0,5,40,0,0,49,0,0,0,0,0,0,fall,Sebastian1-Southblack
+Sebastian,1-South,dark blue,5,35,30,0,5,0,0,10,0,3,12,0,0,0,0,0,0,spring,Sebastian1-Southdark blue
+Sebastian,1-South,gray,5,0,0,0,0,0,25,10,0,0,60,0,0,0,0,0,0,fall,Sebastian1-Southgray
+Sebastian,1-South,gray,0,0,60,0,5,0,5,0,0,0,30,0,0,0,0,0,0,spring,Sebastian1-Southgray
+Sebastian,1-South,green,60,0,0,0,0,0,5,15,0,0,20,0,0,0,0,0,0,fall,Sebastian1-Southgreen
+Sebastian,1-South,green,5,1,5,0,5,2,10,40,0,0,32,0,0,0,0,0,0,spring,Sebastian1-Southgreen
+Sebastian,1-South,orange,0,0,0,0,50,0,40,0,0,0,10,0,0,0,0,0,0,fall,Sebastian1-Southorange
+Sebastian,1-South,pink,50,0,0,0,5,0,15,15,0,0,15,0,0,0,0,0,0,fall,Sebastian1-Southpink
+Sebastian,1-South,pink,20,30,15,0,10,0,0,20,0,0,5,0,0,0,0,0,0,spring,Sebastian1-Southpink
+Sebastian,2-South,aqua,75,0,0,0,10,1,5,0,0,0,9,0,0,0,0,0,0,fall,Sebastian2-Southaqua
+Sebastian,2-South,aqua,15,10,0,0,0,0,20,10,0,0,20,0,0,0,0,0,0,spring,Sebastian2-Southaqua
+Sebastian,2-South,dark blue,47,0,2,0,4,5,2,10,0,0,30,0,0,0,0,0,0,fall,Sebastian2-Southdark blue
+Sebastian,2-South,gray,40,3,10,0,5,0,20,15,0,5,2,0,0,0,0,0,0,spring,Sebastian2-Southgray
+Sebastian,2-South,green,49,0,0,0,6,5,40,0,0,0,0,0,0,0,0,0,0,fall,Sebastian2-Southgreen
+Sebastian,2-South,green,20,10,0,0,0,0,25,20,0,5,20,0,0,0,0,0,0,spring,Sebastian2-Southgreen
+Sebastian,2-South,grey,15,0,0,0,10,0,40,0,0,0,35,0,0,0,0,0,0,fall,Sebastian2-Southgrey
+Sebastian,2-South,orange,15,5,0,0,5,0,60,0,0,0,15,0,0,0,0,0,0,fall,Sebastian2-Southorange
+Sebastian,2-South,orange,0,5,0,0,5,0,59,25,0,0,5,0,0,0,0,1,0,spring,Sebastian2-Southorange
+Sebastian,2-South,pink,47,0,5,1,8,0,0,0,0,0,39,0,0,0,0,0,0,fall,Sebastian2-Southpink
+Sebastian,2-South,pink,0,0,5,0,5,0,80,0,0,5,5,0,0,0,0,0,0,spring,Sebastian2-Southpink
+Sebastian,3-South,aqua,50,0,0,0,1,0,20,2,0,0,27,0,0,0,0,0,0,fall,Sebastian3-Southaqua
+Sebastian,3-South,aqua,20,0,20,0,0,0,10,30,0,5,15,0,0,0,0,0,0,spring,Sebastian3-Southaqua
+Sebastian,3-South,dark blue,10,0,0,0,10,0,25,0,0,5,50,0,0,0,0,0,0,fall,Sebastian3-Southdark blue
+Sebastian,3-South,green,25,0,0,0,15,0,25,10,0,0,25,0,0,0,0,0,0,fall,Sebastian3-Southgreen
+Sebastian,3-South,green,2,50,20,0,2,0,0,20,0,0,6,0,0,0,0,0,0,spring,Sebastian3-Southgreen
+Sebastian,3-South,grey,45,0,0,0,8,0,40,0,0,0,7,0,0,0,0,0,0,fall,Sebastian3-Southgrey
+Sebastian,3-South,orange,3,0,0,0,1,0,50,1,0,0,44,0,0,0,0,1,0,fall,Sebastian3-Southorange
+Sebastian,3-South,orange,2,2,30,0,5,0,10,20,0,0,31,0,0,0,0,0,0,spring,Sebastian3-Southorange
+Sebastian,3-South,pink,10,0,0,0,0,0,80,5,0,0,5,0,0,0,0,0,0,fall,Sebastian3-Southpink
+Sebastian,3-South,pink,30,0,15,0,5,0,15,20,0,0,15,0,0,0,0,0,0,spring,Sebastian3-Southpink
+Sebastian,4-North,aqua,15,0,0,0,0,10,40,20,0,0,15,0,0,0,0,0,0,fall,Sebastian4-Northaqua
+Sebastian,4-North,aqua,10,10,0,0,0,0,50,20,0,0,10,0,0,0,0,0,0,spring,Sebastian4-Northaqua
+Sebastian,4-North,dark blue,15,0,0,0,10,0,0,15,0,0,60,0,0,0,0,0,0,fall,Sebastian4-Northdark blue
+Sebastian,4-North,dark blue,5,15,5,0,0,0,20,10,0,0,45,0,0,0,0,0,0,spring,Sebastian4-Northdark blue
+Sebastian,4-North,gray,30,0,0,0,0,0,15,40,10,0,5,0,0,0,0,0,0,fall,Sebastian4-Northgray
+Sebastian,4-North,green,10,0,0,0,0,10,20,20,0,0,40,0,0,0,0,0,0,fall,Sebastian4-Northgreen
+Sebastian,4-North,green,2,25,5,0,5,0,0,20,3,0,39,0,0,0,0,1,0,spring,Sebastian4-Northgreen
+Sebastian,4-North,orange,10,0,0,0,0,10,70,0,0,0,10,0,0,0,0,0,0,fall,Sebastian4-Northorange
+Sebastian,4-North,orange,5,0,5,2,5,0,83,0,0,0,10,0,0,0,0,0,0,spring,Sebastian4-Northorange
+Sebastian,4-North,pink,50,0,0,0,10,0,0,0,0,0,40,0,0,0,0,0,0,fall,Sebastian4-Northpink
+Sebastian,4-North,pink,10,0,10,0,5,0,60,0,0,5,10,0,0,0,0,0,0,spring,Sebastian4-Northpink
+Wingate,1-South,aqua,60,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,30,fall,Wingate1-Southaqua
+Wingate,1-South,aqua,60,0,15,0,0,0,0,10,0,5,5,0,0,0,5,0,0,spring,Wingate1-Southaqua
+Wingate,1-South,green,60,0,5,0,0,0,0,25,0,0,0,0,0,0,0,0,10,fall,Wingate1-Southgreen
+Wingate,1-South,green,40,0,10,0,0,0,1,5,0,0,33,1,0,0,10,0,0,spring,Wingate1-Southgreen
+Wingate,1-South,pink,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,fall,Wingate1-Southpink
+Wingate,1-South,pink,70,0,0,0,0,0,0,0,0,5,15,0,0,0,10,0,0,spring,Wingate1-Southpink
+Wingate,1-South,purple,50,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,40,fall,Wingate1-Southpurple
+Wingate,1-South,purple,55,0,5,0,0,1,0,0,0,0,19,0,0,0,20,0,0,spring,Wingate1-Southpurple
+Wingate,1-South,red,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,fall,Wingate1-Southred
+Wingate,1-South,red,60,0,0,0,0,0,0,0,0,0,35,0,0,0,5,0,0,spring,Wingate1-Southred
+Wingate,1-South,yellow,15,0,0,3,0,0,0,0,0,0,0,0,0,0,82,0,0,fall,Wingate1-Southyellow
+Wingate,1-South,yellow,0,0,0,5,0,5,0,0,0,0,70,0,0,0,20,0,0,spring,Wingate1-Southyellow
+Wingate,2-North,aqua,0,0,20,0,0,0,0,0,0,0,0,40,0,0,0,0,40,fall,Wingate2-Northaqua
+Wingate,2-North,aqua,50,0,5,0,0,1,0,0,0,0,0,0,0,0,10,0,34,spring,Wingate2-Northaqua
+Wingate,2-North,green,70,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,fall,Wingate2-Northgreen
+Wingate,2-North,green,65,0,5,0,0,0,0,10,0,0,15,0,0,0,5,0,0,spring,Wingate2-Northgreen
+Wingate,2-North,pink,50,0,20,0,0,0,0,0,0,0,0,10,0,0,0,0,20,fall,Wingate2-Northpink
+Wingate,2-North,pink,40,0,5,2,0,2,0,0,0,0,41,0,0,0,10,0,0,spring,Wingate2-Northpink
+Wingate,2-North,purple,5,0,0,1,0,0,0,0,0,0,0,0,0,0,84,0,10,fall,Wingate2-Northpurple
+Wingate,2-North,purple,2,0,2,0,0,5,0,0,0,0,91,0,0,0,0,0,0,spring,Wingate2-Northpurple
+Wingate,2-North,red,60,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,35,fall,Wingate2-Northred
+Wingate,2-North,red,60,0,10,0,0,0,0,5,0,0,20,0,0,0,5,0,0,spring,Wingate2-Northred
+Wingate,2-North,yellow,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,fall,Wingate2-Northyellow
+Wingate,2-North,yellow,55,0,5,0,0,0,0,0,0,0,35,0,0,0,5,0,0,spring,Wingate2-Northyellow
+Wingate,3-South, green,80,0,0,0,0,0,0,0,0,0,15,0,0,0,5,0,0,spring,Wingate3-South green
+Wingate,3-South,aqua,20,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,75,fall,Wingate3-Southaqua
+Wingate,3-South,aqua,25,0,5,0,0,10,0,0,0,0,55,0,0,0,5,0,0,spring,Wingate3-Southaqua
+Wingate,3-South,blue,50,0,20,0,0,0,0,0,0,0,25,0,0,0,5,0,0,spring,Wingate3-Southblue
+Wingate,3-South,dark blue,40,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,50,fall,Wingate3-Southdark blue
+Wingate,3-South,green,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,fall,Wingate3-Southgreen
+Wingate,3-South,orange,70,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,20,fall,Wingate3-Southorange
+Wingate,3-South,orange,55,0,5,0,0,10,0,0,0,5,20,0,0,0,5,0,0,spring,Wingate3-Southorange
+Wingate,3-South,pink,80,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,fall,Wingate3-Southpink
+Wingate,3-South,pink,70,0,0,0,0,0,0,0,0,0,20,0,0,0,10,0,0,spring,Wingate3-Southpink
+Wingate,3-South,yellow,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,fall,Wingate3-Southyellow
+Wingate,3-South,yellow,50,0,0,0,0,0,0,0,0,0,40,0,0,0,10,0,0,spring,Wingate3-Southyellow
+Wingate,4-North,dark blue,60,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,20,fall,Wingate4-Northdark blue
+Wingate,4-North,dark blue,5,0,5,0,0,0,0,10,0,5,70,0,0,0,5,0,0,spring,Wingate4-Northdark blue
+Wingate,4-North,green,70,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,25,fall,Wingate4-Northgreen
+Wingate,4-North,green,30,0,3,0,0,2,0,5,0,0,55,0,0,0,5,0,0,spring,Wingate4-Northgreen
+Wingate,4-North,pink,80,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,15,fall,Wingate4-Northpink
+Wingate,4-North,pink,25,0,5,0,0,0,0,10,0,5,55,0,0,0,0,0,0,spring,Wingate4-Northpink
+Wingate,4-North,purple,70,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,25,fall,Wingate4-Northpurple
+Wingate,4-North,purple,10,0,5,0,0,0,0,5,0,5,50,0,0,0,25,0,0,spring,Wingate4-Northpurple
+Wingate,4-North,red,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,fall,Wingate4-Northred
+Wingate,4-North,red,5,0,0,0,0,1,0,5,0,0,74,0,0,0,15,0,0,spring,Wingate4-Northred
+Wingate,4-North,yellow,60,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,25,fall,Wingate4-Northyellow
+Wingate,4-North,yellow,25,0,0,0,0,0,15,0,0,0,55,0,0,0,5,0,0,spring,Wingate4-Northyellow
+Wingate,5-South,aqua,20,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,65,fall,Wingate5-Southaqua
+Wingate,5-South,aqua,5,0,10,0,0,10,0,0,0,0,59,1,0,0,15,0,0,spring,Wingate5-Southaqua
+Wingate,5-South,green,75,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,10,fall,Wingate5-Southgreen
+Wingate,5-South,green,25,0,20,0,0,1,0,0,0,0,49,0,0,0,5,0,0,spring,Wingate5-Southgreen
+Wingate,5-South,pink,80,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,fall,Wingate5-Southpink
+Wingate,5-South,pink,25,0,15,0,0,0,0,0,0,0,60,0,0,0,0,0,0,spring,Wingate5-Southpink
+Wingate,5-South,purple,30,0,5,0,0,0,0,10,0,0,0,0,0,0,0,0,55,fall,Wingate5-Southpurple
+Wingate,5-South,purple,50,0,0,0,0,0,0,0,0,0,35,0,0,0,15,0,0,spring,Wingate5-Southpurple
+Wingate,5-South,red,0,0,30,0,0,0,0,0,0,0,0,30,0,0,0,0,40,fall,Wingate5-Southred
+Wingate,5-South,red,40,0,5,1,0,10,0,0,0,0,39,5,0,0,0,0,0,spring,Wingate5-Southred
+Wingate,5-South,yellow,30,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,fall,Wingate5-Southyellow
+Wingate,5-South,yellow,50,0,15,0,0,0,0,0,0,0,20,0,0,0,15,0,0,spring,Wingate5-Southyellow
+Wingate,6-North,aqua,50,0,25,0,0,0,0,0,0,0,10,0,0,0,15,0,0,spring,Wingate6-Northaqua
+Wingate,6-North,green,50,0,40,0,0,0,0,0,0,0,10,0,0,0,0,0,0,spring,Wingate6-Northgreen
+Wingate,6-North,pink,70,0,10,0,0,0,0,0,0,0,20,0,0,0,0,0,0,spring,Wingate6-Northpink
+Wingate,6-North,purple,55,0,25,0,0,10,0,0,0,0,10,0,0,0,0,0,0,spring,Wingate6-Northpurple
+Wingate,6-North,red,40,0,20,0,0,5,0,0,0,0,25,0,0,0,10,0,0,spring,Wingate6-Northred
+Wingate,6-North,yellow,60,0,20,0,0,0,0,0,0,0,15,0,0,0,5,0,0,spring,Wingate6-Northyellow
+Wingate,6-South,aqua,50,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,35,fall,Wingate6-Southaqua
+Wingate,6-South,green,50,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,30,fall,Wingate6-Southgreen
+Wingate,6-South,pink,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,50,fall,Wingate6-Southpink
+Wingate,6-South,purple,70,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,5,fall,Wingate6-Southpurple
+Wingate,6-South,red,40,0,30,0,0,0,0,0,0,0,0,0,0,0,10,0,20,fall,Wingate6-Southred
+Wingate,6-South,yellow,80,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,fall,Wingate6-Southyellow
